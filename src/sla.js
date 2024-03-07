@@ -141,13 +141,17 @@ function pageCurrentBlogger() {
     }
 }
 
-a = 1
+// FUNÇÃO QUE GERA O URL DE CADA PAGINA GG
 function getPage(a) {
+    // 11 -1 = 10 * postResults = 100 = jsonStart
     jsonstart = (a - 1) * postResults;
     noPage = a;
+    // noPage = 100
     var b = document.getElementsByTagName('head')[0];
     var c = document.createElement('script');
     c.type = 'text/javascript';
+
+    // homepage = '/', jsonStart = ((numeroPaginaAtual - 1) * quantidadePostsPorPagina)
     c.setAttribute('src', home_page + 'feeds/posts/summary?start-index=' + jsonstart + '&max-results=1&alt=json-in-script&callback=findPostDate');
     b.appendChild(c)
 }
