@@ -10,14 +10,9 @@ import os
 import datetime
 import time
 import numpy as np
+from pytz import timezone
 from styleframe import StyleFrame, Styler, utils
-
-
 def generateExcelTable():
-    cell_hover = {  # for row hover use <tr> instead of <td>
-        'selector': 'td',
-        'props': 'background-color: #ffffb3'
-    }
     df = pd.read_json(f"{os.getcwd()}{os.sep}output{os.sep}musics.json")
     df = df.rename(columns={
         'title': 'Título',
@@ -39,22 +34,39 @@ def generateExcelTable():
     sf.apply_column_style(cols_to_style=df.columns,
                           styler_obj=Styler(bg_color=utils.colors.white, bold=False, font=utils.fonts.arial,
                                             font_size=12), style_header=True, )
+    sf.apply_column_style(cols_to_style=['Link da Imagem', 'Link de Download'],
+                          styler_obj=Styler(font_color=utils.colors.blue, font_size=10))
     sf.apply_headers_style(styler_obj=Styler(font_size=14, bold=True, font=utils.fonts.arial))
 
     sf.to_excel(writer, sheet_name='Sheet1')
     writer.close()
-    # df.style.set_table_styles([cell_hover])
-    # print(f'{os.getcwd()}{os.sep}cds_melody_brasil.xlsx')
-    # df.to_excel(f'cds_melody_brasil.xlsx')
 
 
 class Music_CD:
     def __init__(self, image_url, title, author, publication_date, download_url):
         self.image_url = image_url
         self.title = title
-        self.author = author
+
         self.publication_date = publication_date
         self.download_url = download_url
+        if author != "Unknown":
+            self.author = author
+        else:
+            self.author = 'Autor Desconhecido'
+        self.publication_date = publication_date
+        # try:
+        #     #  2024-03-08T11:11:00.001-03:00
+        #     #  %H  -%M-%ST%H:%M:%S.%F-%z
+        #     time_object =
+        #     #'2024-03-08T11:11:00.001-03:00
+        #     time_object = datetime.time.fromisoformat(publication_date)
+        #     print(time_object)
+        #     data = publication_date.split('T')
+        #     data1 = data[0].split('-')
+        #     self.publication_date = time_object
+        #     # self.publication_date = f'{data1[2]}/{data1[1]}/{data1[0]}'
+        # except:
+        #
 
     def to_dict(self):
         return {
@@ -65,13 +77,12 @@ class Music_CD:
             'download_url': self.download_url
         }
 
-    def from_json(self, json):
-        self.title = json['title']
-        self.image_url = json['image_url']
-        self.author = json['author']
-        self.publication_date = json['publication_date']
-        self.download_url = json['download_url']
-
+    def from_json(self, json_data):
+        self.title = json_data['title']
+        self.image_url = json_data|['image_url']
+        self.author = json_data['author']
+        self.publication_date = json_data['publication_date']
+        self.download_url = json_data['download_url']
 
 
 class MelodyBrasilMusics(scrapy.Spider):
@@ -113,7 +124,6 @@ class MelodyBrasilMusics(scrapy.Spider):
         text_of_response = re.findall(r'\{.+}', text_of_response)
 
         for r in text_of_response:
-            print('entrou')
             jsonob = json.loads(r)
             with open(f'{os.getcwd()}{os.sep}page2888.json', 'w+') as test:
                 test.write(json.dumps(jsonob, indent=4))
@@ -134,7 +144,6 @@ class MelodyBrasilMusics(scrapy.Spider):
                 list_of_links = list_of_entrys[cout]["link"]
 
                 for i in list_of_links:
-                    print(i)
                     try:
                         if i["title"] == title:
                             download_url = i["href"]
@@ -147,6 +156,18 @@ class MelodyBrasilMusics(scrapy.Spider):
                 cout += 1
 
     def spider_closed(self):
+        def sorter_by_date(x):
+            tz = 'America/Sao_Paulo'
+            date_publi = datetime.datetime.strptime(x["publication_date"], '%Y-%m-%dT%H:%M:%S.%f%z')
+            date_publi_sao_paulo = date_publi.astimezone(timezone(tz))
+            new_date = date_publi_sao_paulo.strftime('%d/%m/%Y %H:%M:%S')
+            x['publication_date'] = new_date
+            return date_publi
+
+        # 2024-03-07T13:16:00.002-03:00
+        # %Y  -%M-%dT%H:%M:%S.%F -%z
+        self.music_arr = sorted(self.music_arr, key=sorter_by_date, reverse=True)
+        time.sleep(1)
         json_dt = json.dumps(self.music_arr, indent=4)
         with open(f'{os.getcwd()}{os.sep}output{os.sep}musics.json', 'w+') as outp:
             outp.write(json_dt)
