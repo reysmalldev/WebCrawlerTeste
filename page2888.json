@@ -12,7 +12,7 @@
             "$t": "tag:blogger.com,1999:blog-5364910262796621902"
         },
         "updated": {
-            "$t": "2024-03-07T13:29:26.171-03:00"
+            "$t": "2024-03-07T20:05:32.659-03:00"
         },
         "category": [
             {
@@ -3827,7 +3827,7 @@
             "$t": "Blogger"
         },
         "openSearch$totalResults": {
-            "$t": "29634"
+            "$t": "29635"
         },
         "openSearch$startIndex": {
             "$t": "29620"
@@ -3836,6 +3836,114 @@
             "$t": "10"
         },
         "entry": [
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-3388582364089581640"
+                },
+                "published": {
+                    "$t": "2012-08-11T11:24:00.000-03:00"
+                },
+                "updated": {
+                    "$t": "2016-11-03T14:37:20.824-03:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "2012"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Dj Edilan Mix"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Dj Maluquinho"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Djs Project"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Meo Cloud"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Paulo Arthur Produ\u00e7\u00f5es"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Remix"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "TecnoMelody"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Dj Maluquinho e Dj Paulo Arthur e Djs Projects - Elo\u00e1 Vs 2012 (Nova Roupagem)"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n\n\n\n\n\n\n\n \n  \n\ncliques:  \n\n\n"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://www.melodybrazil.com/feeds/3388582364089581640/comments/default",
+                        "title": "Postar coment\u00e1rios"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2012/08/dj-maluquinho-e-dj-paulo-arthu-eloa-vs.html#comment-form",
+                        "title": "0 Coment\u00e1rios"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/3388582364089581640"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/3388582364089581640"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2012/08/dj-maluquinho-e-dj-paulo-arthu-eloa-vs.html",
+                        "title": "Dj Maluquinho e Dj Paulo Arthur e Djs Projects - Elo\u00e1 Vs 2012 (Nova Roupagem)"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Unknown"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "16",
+                            "height": "16",
+                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDXZnGjX79ZcsuoeKf8leExCTnitiYvp7GhxfxQMTXGKOCiWZ6fSSWIOOkxu_OLP2D2RRPu2Uh9d8TtjTrZiZl84uRoSXjT-PCZ5yhCedend-QtsvwUG6MJiCbmUENWauokDeSZx-5Pdq7/s72-c/MelodyBrazil.com.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "0"
+                }
+            },
             {
                 "id": {
                     "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-5750750169760830071"
@@ -4705,98 +4813,6 @@
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
                     "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhduTlJN_ZIcj9h2GD4FueWUrDWMQN9RAPKeGK4-wtS5WjwhxLOMlWAjQb-0593dSJ09Jja8zBOA9GZfhzHrAXiSQw-VCG6HyYCzTATVnUD67xHujJps450ZRImRNbbKuT3WBlYWMyWSeg/s72-c/Marlon.jpg",
-                    "height": "72",
-                    "width": "72"
-                },
-                "thr$total": {
-                    "$t": "0"
-                }
-            },
-            {
-                "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1037303658326707944"
-                },
-                "published": {
-                    "$t": "2012-04-16T13:47:00.002-03:00"
-                },
-                "updated": {
-                    "$t": "2016-11-03T13:06:40.413-03:00"
-                },
-                "category": [
-                    {
-                        "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2012"
-                    },
-                    {
-                        "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Banda Tribo do Batid\u00e3o"
-                    },
-                    {
-                        "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Dj Edilan Mix"
-                    },
-                    {
-                        "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
-                    }
-                ],
-                "title": {
-                    "type": "text",
-                    "$t": "Banda Tribo do Batid\u00e3o - Diz Que Vai Voltar Pra Mim"
-                },
-                "summary": {
-                    "type": "text",
-                    "$t": "\n\n\n\n\n\n\n\n \n  \n\ncliques:  \n\n\n"
-                },
-                "link": [
-                    {
-                        "rel": "replies",
-                        "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/1037303658326707944/comments/default",
-                        "title": "Postar coment\u00e1rios"
-                    },
-                    {
-                        "rel": "replies",
-                        "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/04/banda-tribo-do-batidao-diz-que-vai.html#comment-form",
-                        "title": "0 Coment\u00e1rios"
-                    },
-                    {
-                        "rel": "edit",
-                        "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1037303658326707944"
-                    },
-                    {
-                        "rel": "self",
-                        "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1037303658326707944"
-                    },
-                    {
-                        "rel": "alternate",
-                        "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/04/banda-tribo-do-batidao-diz-que-vai.html",
-                        "title": "Banda Tribo do Batid\u00e3o - Diz Que Vai Voltar Pra Mim"
-                    }
-                ],
-                "author": [
-                    {
-                        "name": {
-                            "$t": "Unknown"
-                        },
-                        "email": {
-                            "$t": "noreply@blogger.com"
-                        },
-                        "gd$image": {
-                            "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
-                        }
-                    }
-                ],
-                "media$thumbnail": {
-                    "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H_aQLwosgUDabFRN4phk8aPtJz-1YwU2bDLhmGj2Jzkib11t48Pugpt4nDttBc38cpGsqq3N0DSG6GKAWPMKv42Y4y-712HiUQ4xRzhW5-Fl5RFNWEqVhSxw7hyphenhyphenwU3P067KosyKOugI/s72-c/Tribo.jpg",
                     "height": "72",
                     "width": "72"
                 },

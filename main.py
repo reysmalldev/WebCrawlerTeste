@@ -1,15 +1,51 @@
-import logging
 from typing import Iterable, Any
-
 import scrapy
 import re
+import pandas as pd
 import json
-import os
 from scrapy import signals
 from pydispatch import dispatcher
 import sys
+import os
 import datetime
 import time
+import numpy as np
+from styleframe import StyleFrame, Styler, utils
+
+
+def generateExcelTable():
+    cell_hover = {  # for row hover use <tr> instead of <td>
+        'selector': 'td',
+        'props': 'background-color: #ffffb3'
+    }
+    df = pd.read_json(f"{os.getcwd()}{os.sep}output{os.sep}musics.json")
+    df = df.rename(columns={
+        'title': 'Título',
+        'image_url': 'Link da Imagem',
+        'author': 'Autor',
+        'publication_date': 'Data da Publicação',
+        'download_url': 'Link de Download'
+    })
+    writer = StyleFrame.ExcelWriter(f"{os.getcwd()}{os.sep}output{os.sep}cds_melody_brasil.xlsx")
+
+    sf = StyleFrame(df)
+
+    sf.set_column_width('Título', 55)
+    sf.set_column_width('Link da Imagem', 65)
+    sf.set_column_width('Autor', 40)
+    sf.set_column_width('Data da Publicação', 50)
+    sf.set_column_width('Link de Download', 80)
+
+    sf.apply_column_style(cols_to_style=df.columns,
+                          styler_obj=Styler(bg_color=utils.colors.white, bold=False, font=utils.fonts.arial,
+                                            font_size=12), style_header=True, )
+    sf.apply_headers_style(styler_obj=Styler(font_size=14, bold=True, font=utils.fonts.arial))
+
+    sf.to_excel(writer, sheet_name='Sheet1')
+    writer.close()
+    # df.style.set_table_styles([cell_hover])
+    # print(f'{os.getcwd()}{os.sep}cds_melody_brasil.xlsx')
+    # df.to_excel(f'cds_melody_brasil.xlsx')
 
 
 class Music_CD:
@@ -28,6 +64,14 @@ class Music_CD:
             'publication_date': self.publication_date,
             'download_url': self.download_url
         }
+
+    def from_json(self, json):
+        self.title = json['title']
+        self.image_url = json['image_url']
+        self.author = json['author']
+        self.publication_date = json['publication_date']
+        self.download_url = json['download_url']
+
 
 
 class MelodyBrasilMusics(scrapy.Spider):
@@ -61,11 +105,7 @@ class MelodyBrasilMusics(scrapy.Spider):
             self.log_text += self.base_url + '\n'
             yield scrapy.Request(self.base_url, self.parse)
             self.page_num += 1
-            time.sleep(0.15)
-        # self.page_num = self.page_num + 1
-        # json_object = json.dumps(self.music_arr, indent=4)
-        # with open(f"{os.getcwd()}{os.sep}extracted{os.sep}data.json", "w+") as outfile:
-        #     outfile.write(json_object)
+            time.sleep(0.10)
 
     def parse(self, response, **kwargs):
         text_of_response = response.text
@@ -94,8 +134,9 @@ class MelodyBrasilMusics(scrapy.Spider):
                 list_of_links = list_of_entrys[cout]["link"]
 
                 for i in list_of_links:
+                    print(i)
                     try:
-                        if i["title"][1] == title:
+                        if i["title"] == title:
                             download_url = i["href"]
                     except:
                         pass
@@ -104,9 +145,13 @@ class MelodyBrasilMusics(scrapy.Spider):
                 self.music_arr.append(m_dict)
 
                 cout += 1
+
     def spider_closed(self):
-        json_dt = json.dumps({'musics': self.music_arr}, indent=4)
-        with open(f'{os.getcwd()}{os.sep}musics.json', 'w+') as outp:
+        json_dt = json.dumps(self.music_arr, indent=4)
+        with open(f'{os.getcwd()}{os.sep}output{os.sep}musics.json', 'w+') as outp:
             outp.write(json_dt)
-        with open(f'{os.getcwd()}{os.sep}logger.text', 'w+') as outpa:
+            outp.close()
+        with open(f'{os.getcwd()}{os.sep}output{os.sep}logger.text', 'w+') as outpa:
             outpa.write(self.log_text)
+            outpa.close()
+        generateExcelTable()

@@ -1,0 +1,4728 @@
+{
+      "version": "1.0",
+      "encoding": "UTF-8",
+      "feed": {
+            "xmlns": "http://www.w3.org/2005/Atom",
+            "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+            "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+            "xmlns$georss": "http://www.georss.org/georss",
+            "xmlns$gd": "http://schemas.google.com/g/2005",
+            "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+            "id": {
+                  "$t": "tag:blogger.com,1999:blog-5364910262796621902"
+            },
+            "updated": {
+                  "$t": "2024-03-07T00:34:43.864-03:00"
+            },
+            "category": [
+                  {
+                        "term": "Cloudup"
+                  },
+                  {
+                        "term": "Meo Cloud"
+                  },
+                  {
+                        "term": "Dj Edilan Mix"
+                  },
+                  {
+                        "term": "TecnoMelody"
+                  },
+                  {
+                        "term": "2020"
+                  },
+                  {
+                        "term": "2019"
+                  },
+                  {
+                        "term": "2021"
+                  },
+                  {
+                        "term": "2022"
+                  },
+                  {
+                        "term": "Lançamentos Mp3 Melody"
+                  },
+                  {
+                        "term": "2016"
+                  },
+                  {
+                        "term": "TecnoMelody 2020"
+                  },
+                  {
+                        "term": "Tecnomelody 2021"
+                  },
+                  {
+                        "term": "2018"
+                  },
+                  {
+                        "term": "TecnoMelody 2022"
+                  },
+                  {
+                        "term": "2023"
+                  },
+                  {
+                        "term": "TecnoFunk"
+                  },
+                  {
+                        "term": "2017"
+                  },
+                  {
+                        "term": "2015"
+                  },
+                  {
+                        "term": "Cds Ao Vivo"
+                  },
+                  {
+                        "term": "TECNOMELODY 2023"
+                  },
+                  {
+                        "term": "Cds Completos"
+                  },
+                  {
+                        "term": "Arrocha"
+                  },
+                  {
+                        "term": "Cds Mixados"
+                  },
+                  {
+                        "term": "Dj Nando o Eletrizante"
+                  },
+                  {
+                        "term": "2014"
+                  },
+                  {
+                        "term": "Dj Josue"
+                  },
+                  {
+                        "term": "Arrocha 2021"
+                  },
+                  {
+                        "term": "DJ Meury A Musa Das Produções"
+                  },
+                  {
+                        "term": "Arrocha 2020"
+                  },
+                  {
+                        "term": "Banda 007"
+                  },
+                  {
+                        "term": "Arrocha 2019"
+                  },
+                  {
+                        "term": "Lançamentos 2013"
+                  },
+                  {
+                        "term": "Arrocha 2022"
+                  },
+                  {
+                        "term": "Dj Stifler"
+                  },
+                  {
+                        "term": "DJ Junior Sales"
+                  },
+                  {
+                        "term": "Remix"
+                  },
+                  {
+                        "term": "DJ MEURY"
+                  },
+                  {
+                        "term": "Tecno Melody 2019"
+                  },
+                  {
+                        "term": "Recomendo"
+                  },
+                  {
+                        "term": "Lançamentos"
+                  },
+                  {
+                        "term": "ARROCHA 2023"
+                  },
+                  {
+                        "term": "Cds Crocodilo"
+                  },
+                  {
+                        "term": "2024"
+                  },
+                  {
+                        "term": "Dj Big Show"
+                  },
+                  {
+                        "term": "Cds Super Pop Live"
+                  },
+                  {
+                        "term": "Dj Daivyd Mega"
+                  },
+                  {
+                        "term": "Dj Lorran Produções"
+                  },
+                  {
+                        "term": "Allanzinho Simplesmente Romântico"
+                  },
+                  {
+                        "term": "Dj Railison"
+                  },
+                  {
+                        "term": "Dj Lorran"
+                  },
+                  {
+                        "term": "Dj Marcos Kauê"
+                  },
+                  {
+                        "term": "SP Produções"
+                  },
+                  {
+                        "term": "TECNOMELODY 2024"
+                  },
+                  {
+                        "term": "Banda Kenner"
+                  },
+                  {
+                        "term": "Dj Sander"
+                  },
+                  {
+                        "term": "Dj China"
+                  },
+                  {
+                        "term": "Dj Elias Batidão"
+                  },
+                  {
+                        "term": "RAPIDINHAS"
+                  },
+                  {
+                        "term": "DINHO ABSOLUTO"
+                  },
+                  {
+                        "term": "Dj Diego Evolution"
+                  },
+                  {
+                        "term": "Dj Mayck"
+                  },
+                  {
+                        "term": "Robson Mafra"
+                  },
+                  {
+                        "term": "Santorini"
+                  },
+                  {
+                        "term": "Paulinho da Adidas Produções"
+                  },
+                  {
+                        "term": "Dj Paulinho"
+                  },
+                  {
+                        "term": "Romeu"
+                  },
+                  {
+                        "term": "Billy Brasil"
+                  },
+                  {
+                        "term": "VIVIANE BATIDÃO"
+                  },
+                  {
+                        "term": "Dj David Super"
+                  },
+                  {
+                        "term": "Dj Hud"
+                  },
+                  {
+                        "term": "Dj Ryan Mix O Espetacular"
+                  },
+                  {
+                        "term": "Macaxeira Produtor"
+                  },
+                  {
+                        "term": "hud o brabo"
+                  },
+                  {
+                        "term": "MARLON BRANCO"
+                  },
+                  {
+                        "term": "melodyparabaixar.com"
+                  },
+                  {
+                        "term": "Romanticas"
+                  },
+                  {
+                        "term": "Banda Top7"
+                  },
+                  {
+                        "term": "TecnoFunk Pressão"
+                  },
+                  {
+                        "term": "Rapidinha"
+                  },
+                  {
+                        "term": "Dj Gilvan"
+                  },
+                  {
+                        "term": "Dj Ronaldinho das Produções"
+                  },
+                  {
+                        "term": "Fellipe Alucinado"
+                  },
+                  {
+                        "term": "Dj Ney Revolution"
+                  },
+                  {
+                        "term": "Dj  Eduardo da Night"
+                  },
+                  {
+                        "term": "Davi Produções"
+                  },
+                  {
+                        "term": "Junior Santorini"
+                  },
+                  {
+                        "term": "Dj Ronaldo Maresia"
+                  },
+                  {
+                        "term": "MELODY 2023"
+                  },
+                  {
+                        "term": "Melody 2020"
+                  },
+                  {
+                        "term": "Cd Patrocinado"
+                  },
+                  {
+                        "term": "Taty Pink"
+                  },
+                  {
+                        "term": "Banda W7"
+                  },
+                  {
+                        "term": "David Super"
+                  },
+                  {
+                        "term": "Dj Marcos Show"
+                  },
+                  {
+                        "term": "Internacional"
+                  },
+                  {
+                        "term": "Lorrane Araújo"
+                  },
+                  {
+                        "term": "DJ Verdelho"
+                  },
+                  {
+                        "term": "Melody Brazil"
+                  },
+                  {
+                        "term": "LANÇAMENTOS RMX"
+                  },
+                  {
+                        "term": "Banda Batidão do Melody"
+                  },
+                  {
+                        "term": "Melody 2019"
+                  },
+                  {
+                        "term": "Principe Negro Retrô"
+                  },
+                  {
+                        "term": "Videoclipes"
+                  },
+                  {
+                        "term": "Dj Marcelo No 18Tão"
+                  },
+                  {
+                        "term": "DJ Betinho Izabelense"
+                  },
+                  {
+                        "term": "Dj Luiz o Poderoso Chefao"
+                  },
+                  {
+                        "term": "PORTAL DO MELODY"
+                  },
+                  {
+                        "term": "Dj Alexander"
+                  },
+                  {
+                        "term": "Ailton Produções"
+                  },
+                  {
+                        "term": "Dj Lucas Revollution"
+                  },
+                  {
+                        "term": "Dj Pedrinho Produções"
+                  },
+                  {
+                        "term": "Cds Badalasom"
+                  },
+                  {
+                        "term": "Maderito"
+                  },
+                  {
+                        "term": "Acoxadinho"
+                  },
+                  {
+                        "term": "TECNOMELODY.COM"
+                  },
+                  {
+                        "term": "Banda Ar-15"
+                  },
+                  {
+                        "term": "Produtora Matrix"
+                  },
+                  {
+                        "term": "Dj Alex Sampler"
+                  },
+                  {
+                        "term": "Dj Nelton"
+                  },
+                  {
+                        "term": "Dj Taboca"
+                  },
+                  {
+                        "term": "Dj Fabrício Imbatível"
+                  },
+                  {
+                        "term": "Moises Produções"
+                  },
+                  {
+                        "term": "Mega Dj Hugo de Castanhal"
+                  },
+                  {
+                        "term": "Cds Bufalo Do Marajó"
+                  },
+                  {
+                        "term": "Melody 2022"
+                  },
+                  {
+                        "term": "melody"
+                  },
+                  {
+                        "term": "Studio T.I Produções"
+                  },
+                  {
+                        "term": "ednho santos"
+                  },
+                  {
+                        "term": "Marlon Correa"
+                  },
+                  {
+                        "term": "Pisadinha"
+                  },
+                  {
+                        "term": "Dj Marcos Produções"
+                  },
+                  {
+                        "term": "BETINHO IZABELENSE"
+                  },
+                  {
+                        "term": "Banda Xarada"
+                  },
+                  {
+                        "term": "Dj Moises"
+                  },
+                  {
+                        "term": "Os Jovens do Mix"
+                  },
+                  {
+                        "term": "Dj Riquelme Super"
+                  },
+                  {
+                        "term": "AXÉ MELODY"
+                  },
+                  {
+                        "term": "Mc Dourado"
+                  },
+                  {
+                        "term": "Dj Angelo Mix"
+                  },
+                  {
+                        "term": "Mc Biel Bh"
+                  },
+                  {
+                        "term": "Melody 2021"
+                  },
+                  {
+                        "term": "Dj Bidel"
+                  },
+                  {
+                        "term": "Marlonn Pressão"
+                  },
+                  {
+                        "term": "Dj Adriel"
+                  },
+                  {
+                        "term": "Dj Gilvan O Garoto do Melody"
+                  },
+                  {
+                        "term": "TecnoMarcante"
+                  },
+                  {
+                        "term": "Studio Fusion Project"
+                  },
+                  {
+                        "term": "arrochafunk"
+                  },
+                  {
+                        "term": "Banda Açai Pimenta"
+                  },
+                  {
+                        "term": "Fabiano Tailandense"
+                  },
+                  {
+                        "term": "Mc Rei"
+                  },
+                  {
+                        "term": "Bruno Monteiro"
+                  },
+                  {
+                        "term": "Dj Savio"
+                  },
+                  {
+                        "term": "Dj Marcos"
+                  },
+                  {
+                        "term": "Brega"
+                  },
+                  {
+                        "term": "Dj Reinaldo"
+                  },
+                  {
+                        "term": "Dj Waldo Squash"
+                  },
+                  {
+                        "term": "Master Dj MalBoy"
+                  },
+                  {
+                        "term": "Set"
+                  },
+                  {
+                        "term": "Dj Aglison Produções"
+                  },
+                  {
+                        "term": "Dj Murilo das Produções"
+                  },
+                  {
+                        "term": "Cds Super Pop 3D"
+                  },
+                  {
+                        "term": "Dj Aldo Junior"
+                  },
+                  {
+                        "term": "Junior Kabal"
+                  },
+                  {
+                        "term": "Dj Puffy Prime"
+                  },
+                  {
+                        "term": "Banda Louca Tentação"
+                  },
+                  {
+                        "term": "Dj Bené Marques"
+                  },
+                  {
+                        "term": "GANG DO ELETRO"
+                  },
+                  {
+                        "term": "007"
+                  },
+                  {
+                        "term": "Guinho Gtres"
+                  },
+                  {
+                        "term": "Banda Os Brothers"
+                  },
+                  {
+                        "term": "Denner Cigano"
+                  },
+                  {
+                        "term": "Duda Backman"
+                  },
+                  {
+                        "term": "Mc Biel"
+                  },
+                  {
+                        "term": "Jean Produções"
+                  },
+                  {
+                        "term": "Pacote 2019"
+                  },
+                  {
+                        "term": "Banda New Project"
+                  },
+                  {
+                        "term": "Dj Genilson e Jr Calado"
+                  },
+                  {
+                        "term": "Djs Léo e Deivid"
+                  },
+                  {
+                        "term": "2021\ntecnofunk"
+                  },
+                  {
+                        "term": "Dj Bill dos Piratas"
+                  },
+                  {
+                        "term": "Dj Mario Bros"
+                  },
+                  {
+                        "term": "Axé Melody 2017"
+                  },
+                  {
+                        "term": "Banda KPricho"
+                  },
+                  {
+                        "term": "Dj Genilson Incomparável"
+                  },
+                  {
+                        "term": "Mc Thobias"
+                  },
+                  {
+                        "term": "Dj Diney"
+                  },
+                  {
+                        "term": "Pacote"
+                  },
+                  {
+                        "term": "Pedrinho Produções"
+                  },
+                  {
+                        "term": "Dj Edielson Batidão"
+                  },
+                  {
+                        "term": "Dj Maluquinho"
+                  },
+                  {
+                        "term": "Dj Elison"
+                  },
+                  {
+                        "term": "Banda Mega Stylus"
+                  },
+                  {
+                        "term": "DropBox"
+                  },
+                  {
+                        "term": "Mc Jhey"
+                  },
+                  {
+                        "term": "Banda New Mega"
+                  },
+                  {
+                        "term": "Dj Allê"
+                  },
+                  {
+                        "term": "Banda Mega Teen"
+                  },
+                  {
+                        "term": "Techno Machine"
+                  },
+                  {
+                        "term": "A Carroça Da Saudade"
+                  },
+                  {
+                        "term": "ARROCHA 2024"
+                  },
+                  {
+                        "term": "Dario Rocha"
+                  },
+                  {
+                        "term": "Robson Rox"
+                  },
+                  {
+                        "term": "TecnoReggaeton"
+                  },
+                  {
+                        "term": "2012"
+                  },
+                  {
+                        "term": "Cds De Marcantes"
+                  },
+                  {
+                        "term": "Leticia Talia"
+                  },
+                  {
+                        "term": "Rafael Barros"
+                  },
+                  {
+                        "term": "Abertura"
+                  },
+                  {
+                        "term": "Banda Swing Batidão"
+                  },
+                  {
+                        "term": "Cd Site Melody Brazil"
+                  },
+                  {
+                        "term": "Funk"
+                  },
+                  {
+                        "term": "AR-15"
+                  },
+                  {
+                        "term": "Banda Batidão.Com"
+                  },
+                  {
+                        "term": "Electro Fluxo"
+                  },
+                  {
+                        "term": "Perla Miranda"
+                  },
+                  {
+                        "term": "DJ Eduardo Da Night"
+                  },
+                  {
+                        "term": "tecno funk"
+                  },
+                  {
+                        "term": "Melody Brasil"
+                  },
+                  {
+                        "term": "XARADA"
+                  },
+                  {
+                        "term": "Alle Bass"
+                  },
+                  {
+                        "term": "Banda Batidão"
+                  },
+                  {
+                        "term": "Banda NC Mania"
+                  },
+                  {
+                        "term": "Manu Bahtidão"
+                  },
+                  {
+                        "term": "Mc Dentinho Pl"
+                  },
+                  {
+                        "term": "Dj Difinho"
+                  },
+                  {
+                        "term": "MINI MATRIX"
+                  },
+                  {
+                        "term": "Tom Platinado"
+                  },
+                  {
+                        "term": "Dj Duilio"
+                  },
+                  {
+                        "term": "Manu Batidão"
+                  },
+                  {
+                        "term": "Mc Thiaguinho"
+                  },
+                  {
+                        "term": "Roupagem Marcante"
+                  },
+                  {
+                        "term": "AS Baroas"
+                  },
+                  {
+                        "term": "Acustico"
+                  },
+                  {
+                        "term": "Angelica Chavallier"
+                  },
+                  {
+                        "term": "David Sampler"
+                  },
+                  {
+                        "term": "Dj Luan Produções"
+                  },
+                  {
+                        "term": "Top Produções"
+                  },
+                  {
+                        "term": "Dj Samir Produções"
+                  },
+                  {
+                        "term": "Dj Sebastian Incomparavel"
+                  },
+                  {
+                        "term": "Helias Nascimento"
+                  },
+                  {
+                        "term": "Projeto Reboot"
+                  },
+                  {
+                        "term": "Pasta TecnoMelody 2020"
+                  },
+                  {
+                        "term": "Dj Junior Mix"
+                  },
+                  {
+                        "term": "OS MANOS DO MIX"
+                  },
+                  {
+                        "term": "Bregas Solos"
+                  },
+                  {
+                        "term": "OS BROTHERS"
+                  },
+                  {
+                        "term": "PEROLA NEGRA"
+                  },
+                  {
+                        "term": "TECHNO RAVE"
+                  },
+                  {
+                        "term": "Audio Project Music"
+                  },
+                  {
+                        "term": "Batidão Romântico"
+                  },
+                  {
+                        "term": "Dj Bruno de Marituba"
+                  },
+                  {
+                        "term": "Dj Pedrinho Mega"
+                  },
+                  {
+                        "term": "Dj Zezinho"
+                  },
+                  {
+                        "term": "Duda Beckman"
+                  },
+                  {
+                        "term": "Mc Kronos"
+                  },
+                  {
+                        "term": "Rebeca Lindsay"
+                  },
+                  {
+                        "term": "Studio Mini Matrix"
+                  },
+                  {
+                        "term": "ARMANDINHO"
+                  },
+                  {
+                        "term": "Dj Alison 3D"
+                  },
+                  {
+                        "term": "Dj Junior Pop"
+                  },
+                  {
+                        "term": "Banda Meninos da Tropa"
+                  },
+                  {
+                        "term": "Marcantes"
+                  },
+                  {
+                        "term": "Banda LD"
+                  },
+                  {
+                        "term": "Brega Marcante"
+                  },
+                  {
+                        "term": "Dj Luis da D'Night"
+                  },
+                  {
+                        "term": "Dj Xuiazinho"
+                  },
+                  {
+                        "term": "Paulo Arthur Produções"
+                  },
+                  {
+                        "term": "Piseiro"
+                  },
+                  {
+                        "term": "Dj Alex Produções"
+                  },
+                  {
+                        "term": "Dj Led"
+                  },
+                  {
+                        "term": "Dj Nene"
+                  },
+                  {
+                        "term": "JSM Produções"
+                  },
+                  {
+                        "term": "OS PLAY BOYS"
+                  },
+                  {
+                        "term": "Os Megas Do Mix"
+                  },
+                  {
+                        "term": "Cds Rubi Boy"
+                  },
+                  {
+                        "term": "DR7"
+                  },
+                  {
+                        "term": "MEGA TEEN"
+                  },
+                  {
+                        "term": "Tecnomelody Remix"
+                  },
+                  {
+                        "term": "AÇAÍ PIMENTA"
+                  },
+                  {
+                        "term": "Dj Luys D´Night"
+                  },
+                  {
+                        "term": "IBIZA BELÉM"
+                  },
+                  {
+                        "term": "Mc Xerife"
+                  },
+                  {
+                        "term": "Pasta Tecnomelody 2021"
+                  },
+                  {
+                        "term": "BRUNO E TRIO"
+                  },
+                  {
+                        "term": "Cds Mega Principe"
+                  },
+                  {
+                        "term": "Dj Daniel Curuçáense"
+                  },
+                  {
+                        "term": "Dudu Batidão"
+                  },
+                  {
+                        "term": "Joe Benassi"
+                  },
+                  {
+                        "term": "Asas do Amor"
+                  },
+                  {
+                        "term": "Banda The Boteco"
+                  },
+                  {
+                        "term": "Cds Arrocha"
+                  },
+                  {
+                        "term": "Cineral Digital"
+                  },
+                  {
+                        "term": "Dj Alan O Respeitado"
+                  },
+                  {
+                        "term": "Dj Moises Considerado"
+                  },
+                  {
+                        "term": "Loop"
+                  },
+                  {
+                        "term": "O Lendario Rubi Saudade"
+                  },
+                  {
+                        "term": "Banda Virus Musical"
+                  },
+                  {
+                        "term": "Dj Ale Produções"
+                  },
+                  {
+                        "term": "Dj Junior Vidal"
+                  },
+                  {
+                        "term": "Mc Rick"
+                  },
+                  {
+                        "term": "Wellerson Carvalho"
+                  },
+                  {
+                        "term": "Banda BNB"
+                  },
+                  {
+                        "term": "Banda Perola Negra"
+                  },
+                  {
+                        "term": "Bora Lá Dudu"
+                  },
+                  {
+                        "term": "Dayane Show"
+                  },
+                  {
+                        "term": "Dj Daniel"
+                  },
+                  {
+                        "term": "Dj Flavio"
+                  },
+                  {
+                        "term": "Dj Jordy Soares"
+                  },
+                  {
+                        "term": "Mc Anjinho"
+                  },
+                  {
+                        "term": "Os Parceiros do Mix"
+                  },
+                  {
+                        "term": "Brega Melody"
+                  },
+                  {
+                        "term": "Dj Kaio Sound"
+                  },
+                  {
+                        "term": "Dj Thiago"
+                  },
+                  {
+                        "term": "Lançamentos 2012"
+                  },
+                  {
+                        "term": "Mc Black"
+                  },
+                  {
+                        "term": "Os Mestres dos Beats"
+                  },
+                  {
+                        "term": "PASTA TECNOMELODY 2023"
+                  },
+                  {
+                        "term": "PEGADA POP"
+                  },
+                  {
+                        "term": "Packs"
+                  },
+                  {
+                        "term": "Trio das Aparelhagens"
+                  },
+                  {
+                        "term": "Acapellas"
+                  },
+                  {
+                        "term": "Anny Lopes"
+                  },
+                  {
+                        "term": "DJ Tullio Souza"
+                  },
+                  {
+                        "term": "Dj Genilson"
+                  },
+                  {
+                        "term": "Lc Produções"
+                  },
+                  {
+                        "term": "Will Love"
+                  },
+                  {
+                        "term": "BATIDÃO DO MELODY"
+                  },
+                  {
+                        "term": "Banda X7"
+                  },
+                  {
+                        "term": "Bonde Love"
+                  },
+                  {
+                        "term": "Cds Pop Saudade"
+                  },
+                  {
+                        "term": "Dj Murilo Mesquita"
+                  },
+                  {
+                        "term": "Flash Brega"
+                  },
+                  {
+                        "term": "MELODY 2024"
+                  },
+                  {
+                        "term": "Pasta Arrocha 2020"
+                  },
+                  {
+                        "term": "Seresta"
+                  },
+                  {
+                        "term": "Suanny Batidão"
+                  },
+                  {
+                        "term": "Techno Mania"
+                  },
+                  {
+                        "term": "Banda Vilões do Arrocha"
+                  },
+                  {
+                        "term": "Cds Mega Robsom"
+                  },
+                  {
+                        "term": "Dj Sergio"
+                  },
+                  {
+                        "term": "Dj Vitinho Mix"
+                  },
+                  {
+                        "term": "Muleke Malla"
+                  },
+                  {
+                        "term": "Paulo Lima"
+                  },
+                  {
+                        "term": "Banda FaceMelody"
+                  },
+                  {
+                        "term": "Banda Fruto Sensual"
+                  },
+                  {
+                        "term": "Banda Mega Pop Show"
+                  },
+                  {
+                        "term": "Cds Passat Moral"
+                  },
+                  {
+                        "term": "Dj Almon das Produções"
+                  },
+                  {
+                        "term": "Dj Alê Produções"
+                  },
+                  {
+                        "term": "Forró"
+                  },
+                  {
+                        "term": "Mc Leandrinho PA"
+                  },
+                  {
+                        "term": "Mc Smok"
+                  },
+                  {
+                        "term": "Mega Dj Edy"
+                  },
+                  {
+                        "term": "Pasta TecnoMelody 2022"
+                  },
+                  {
+                        "term": "Axé Melody 2020"
+                  },
+                  {
+                        "term": "Banda os Imbativeis do Melody"
+                  },
+                  {
+                        "term": "CD MELODY BRAZIL"
+                  },
+                  {
+                        "term": "Cds Pop Som"
+                  },
+                  {
+                        "term": "Cds Saudade"
+                  },
+                  {
+                        "term": "Dj Breno The Best"
+                  },
+                  {
+                        "term": "Dj Neias Mendes"
+                  },
+                  {
+                        "term": "Dj Renan Mocajubense"
+                  },
+                  {
+                        "term": "Dj Toninho Maravilha"
+                  },
+                  {
+                        "term": "Jader Pires"
+                  },
+                  {
+                        "term": "Lucas Rocha"
+                  },
+                  {
+                        "term": "Mc Guinho G3"
+                  },
+                  {
+                        "term": "Nathy Rabello"
+                  },
+                  {
+                        "term": "PASTA DE ARROCHA 2023"
+                  },
+                  {
+                        "term": "Pasta Arrocha 2022"
+                  },
+                  {
+                        "term": "BATIDÃO"
+                  },
+                  {
+                        "term": "Banda Amazon"
+                  },
+                  {
+                        "term": "Banda MB"
+                  },
+                  {
+                        "term": "Banda Moral do Batidão"
+                  },
+                  {
+                        "term": "Banda R-Vox"
+                  },
+                  {
+                        "term": "Banda Van 708"
+                  },
+                  {
+                        "term": "Cds Marcantes"
+                  },
+                  {
+                        "term": "Dj Rafael Produções"
+                  },
+                  {
+                        "term": "Exclusiva"
+                  },
+                  {
+                        "term": "M-SYNCK"
+                  },
+                  {
+                        "term": "Melody Marcante 2019"
+                  },
+                  {
+                        "term": "Pasta Arrocha 2021"
+                  },
+                  {
+                        "term": "Pasta Vinhetas"
+                  },
+                  {
+                        "term": "SEXY BATIDÃO"
+                  },
+                  {
+                        "term": "TecnoSertanejo"
+                  },
+                  {
+                        "term": "tecno melody"
+                  },
+                  {
+                        "term": "tecnoBrega"
+                  },
+                  {
+                        "term": "ALTA TENSÃO"
+                  },
+                  {
+                        "term": "Acústicos"
+                  },
+                  {
+                        "term": "Allan Hox"
+                  },
+                  {
+                        "term": "Banda Sexy Batidão"
+                  },
+                  {
+                        "term": "Caminhão Veneno O Terremoto"
+                  },
+                  {
+                        "term": "DJ Weverton Rodrigues"
+                  },
+                  {
+                        "term": "Dj Jaderson"
+                  },
+                  {
+                        "term": "Dj Paulinho Mix das Produçoes"
+                  },
+                  {
+                        "term": "ELITE DO MELODY"
+                  },
+                  {
+                        "term": "Gilmar Batidão"
+                  },
+                  {
+                        "term": "Mc Negrito"
+                  },
+                  {
+                        "term": "Melody Marcante"
+                  },
+                  {
+                        "term": "OS KARINHAS"
+                  },
+                  {
+                        "term": "Ronny Costa"
+                  },
+                  {
+                        "term": "Tom Mix"
+                  },
+                  {
+                        "term": "Banda Os Imbatíveis do Melody"
+                  },
+                  {
+                        "term": "Banda Tribal"
+                  },
+                  {
+                        "term": "Deep House"
+                  },
+                  {
+                        "term": "Dj Diemerson"
+                  },
+                  {
+                        "term": "Dj Geleia"
+                  },
+                  {
+                        "term": "Dj Juninho Consagrado"
+                  },
+                  {
+                        "term": "Elissandra Kenner"
+                  },
+                  {
+                        "term": "FRUTO SENSUAL"
+                  },
+                  {
+                        "term": "Jaine Lima"
+                  },
+                  {
+                        "term": "Mc Dani Zika"
+                  },
+                  {
+                        "term": "Mc LK"
+                  },
+                  {
+                        "term": "NEW SAMPLER"
+                  },
+                  {
+                        "term": "OS FABULOSOS"
+                  },
+                  {
+                        "term": "Os Tops do Remix"
+                  },
+                  {
+                        "term": "Tony Tranquily"
+                  },
+                  {
+                        "term": "Victor Gael"
+                  },
+                  {
+                        "term": "cds Ouro Negro"
+                  },
+                  {
+                        "term": "BNB"
+                  },
+                  {
+                        "term": "Banda K10"
+                  },
+                  {
+                        "term": "Banda M-Synck"
+                  },
+                  {
+                        "term": "Banda Os Canibais"
+                  },
+                  {
+                        "term": "Banda Puro Desejo"
+                  },
+                  {
+                        "term": "DJ Moises Mix"
+                  },
+                  {
+                        "term": "Dj Nego da Night"
+                  },
+                  {
+                        "term": "Dj Ramonzinho"
+                  },
+                  {
+                        "term": "Dj Robson Douglas"
+                  },
+                  {
+                        "term": "ELIAS BATIDÃO"
+                  },
+                  {
+                        "term": "Hud Surreal"
+                  },
+                  {
+                        "term": "Jorge Moraes e Cia"
+                  },
+                  {
+                        "term": "Mc Gtres"
+                  },
+                  {
+                        "term": "REVOLUTIONS"
+                  },
+                  {
+                        "term": "cloud"
+                  },
+                  {
+                        "term": "2013"
+                  },
+                  {
+                        "term": "ANJOS DO MELODY"
+                  },
+                  {
+                        "term": "Banda Ravelly"
+                  },
+                  {
+                        "term": "Banda Star Show"
+                  },
+                  {
+                        "term": "Banda TopWay"
+                  },
+                  {
+                        "term": "Bregadeira"
+                  },
+                  {
+                        "term": "Capela"
+                  },
+                  {
+                        "term": "Cds Tupinamba"
+                  },
+                  {
+                        "term": "Daniel Cardoso"
+                  },
+                  {
+                        "term": "Diemerson Lobo"
+                  },
+                  {
+                        "term": "Dj Deivyd Mega"
+                  },
+                  {
+                        "term": "Dj Johelson Produções"
+                  },
+                  {
+                        "term": "Dj Pedrinho Virtual"
+                  },
+                  {
+                        "term": "MEGA ESTYLLO"
+                  },
+                  {
+                        "term": "NEGA LORA"
+                  },
+                  {
+                        "term": "P\u0026P Produdora"
+                  },
+                  {
+                        "term": "PeP Produtora"
+                  },
+                  {
+                        "term": "Samuel Produções"
+                  },
+                  {
+                        "term": "Set De Tecnomelody"
+                  },
+                  {
+                        "term": "TecnoRap"
+                  },
+                  {
+                        "term": "Thaciane Batidão do Melody"
+                  },
+                  {
+                        "term": "Banda M Synck"
+                  },
+                  {
+                        "term": "Banda Pegada Veneno"
+                  },
+                  {
+                        "term": "Chyco Salles"
+                  },
+                  {
+                        "term": "DJ Ale Digital"
+                  },
+                  {
+                        "term": "Dhemerson Lobo"
+                  },
+                  {
+                        "term": "Dj Iran"
+                  },
+                  {
+                        "term": "Dj JaniSound"
+                  },
+                  {
+                        "term": "Dj Pedrinho Mix"
+                  },
+                  {
+                        "term": "Dj Robson Rox"
+                  },
+                  {
+                        "term": "Dj Ronald das Produções"
+                  },
+                  {
+                        "term": "Dj Xororó"
+                  },
+                  {
+                        "term": "Dj Zullu Imbativel"
+                  },
+                  {
+                        "term": "FunkMelody"
+                  },
+                  {
+                        "term": "Garoto Do Melody"
+                  },
+                  {
+                        "term": "Lambada"
+                  },
+                  {
+                        "term": "Marcelo Ferreira"
+                  },
+                  {
+                        "term": "Mc 3AG"
+                  },
+                  {
+                        "term": "Nega Lins"
+                  },
+                  {
+                        "term": "Pacote Marcantes Solos Selecionado"
+                  },
+                  {
+                        "term": "Tecno funk março 2019"
+                  },
+                  {
+                        "term": "2021\nMC BIEL BH"
+                  },
+                  {
+                        "term": "ANJOS DO ELETRO"
+                  },
+                  {
+                        "term": "Alan Delon e Grupo Arrocha"
+                  },
+                  {
+                        "term": "Babby Melody"
+                  },
+                  {
+                        "term": "Banda Beijo Molhado"
+                  },
+                  {
+                        "term": "Carolina Ferrari"
+                  },
+                  {
+                        "term": "Cd Ouro Negro"
+                  },
+                  {
+                        "term": "Dj  Robson Trybal"
+                  },
+                  {
+                        "term": "Dj Cadu The Best"
+                  },
+                  {
+                        "term": "Dj Iago Mix"
+                  },
+                  {
+                        "term": "Dj Kako"
+                  },
+                  {
+                        "term": "Dj Landú e Dj Ivan Macedo"
+                  },
+                  {
+                        "term": "Dj Madson Melody 2012"
+                  },
+                  {
+                        "term": "Dj Marcos Mix"
+                  },
+                  {
+                        "term": "Dj Netinho"
+                  },
+                  {
+                        "term": "Djs Marcos e Netinho"
+                  },
+                  {
+                        "term": "Eletrico 2024"
+                  },
+                  {
+                        "term": "Elison Produções"
+                  },
+                  {
+                        "term": "Junior Chagas"
+                  },
+                  {
+                        "term": "Km7"
+                  },
+                  {
+                        "term": "Mafia Mandelão"
+                  },
+                  {
+                        "term": "Mc Kioschy"
+                  },
+                  {
+                        "term": "Mc Lili"
+                  },
+                  {
+                        "term": "Nanda Di Sousa"
+                  },
+                  {
+                        "term": "Off"
+                  },
+                  {
+                        "term": "Pankadão Incomparável"
+                  },
+                  {
+                        "term": "Pasta Dance"
+                  },
+                  {
+                        "term": "Siqueirão o Passaro De Fogo"
+                  },
+                  {
+                        "term": "Tecno rock doido"
+                  },
+                  {
+                        "term": "TecnoCarimbó"
+                  },
+                  {
+                        "term": "TecnoPressão"
+                  },
+                  {
+                        "term": "Tecnomelody Pressão"
+                  },
+                  {
+                        "term": "Waldo Lima"
+                  },
+                  {
+                        "term": "Allison Produções"
+                  },
+                  {
+                        "term": "BANDA AR2"
+                  },
+                  {
+                        "term": "Banda Alta Tensão"
+                  },
+                  {
+                        "term": "Banda Açaí Pimenta"
+                  },
+                  {
+                        "term": "Banda Lux Melody"
+                  },
+                  {
+                        "term": "Banda Marcante"
+                  },
+                  {
+                        "term": "Banda Quero Mais"
+                  },
+                  {
+                        "term": "Banda Richt Batidão"
+                  },
+                  {
+                        "term": "Banda Voo Livre"
+                  },
+                  {
+                        "term": "Cds Brega Marcante"
+                  },
+                  {
+                        "term": "DJ Junior Calado De Castanhal"
+                  },
+                  {
+                        "term": "Dj Aleson"
+                  },
+                  {
+                        "term": "Dj Alessandro Izabelense"
+                  },
+                  {
+                        "term": "Dj Bruno Lima"
+                  },
+                  {
+                        "term": "Dj Carlos Sonyc"
+                  },
+                  {
+                        "term": "Dj Kauan"
+                  },
+                  {
+                        "term": "Dj Patryck"
+                  },
+                  {
+                        "term": "Dj Rodrigo Produções"
+                  },
+                  {
+                        "term": "Dj Thiago Farias"
+                  },
+                  {
+                        "term": "Dj Tiago Fabuloso"
+                  },
+                  {
+                        "term": "Djs Gordo e Dinho"
+                  },
+                  {
+                        "term": "Jonny Novack"
+                  },
+                  {
+                        "term": "Junior e Neto"
+                  },
+                  {
+                        "term": "Lenno Rodrigo"
+                  },
+                  {
+                        "term": "MEGA BEIJO"
+                  },
+                  {
+                        "term": "MEURY"
+                  },
+                  {
+                        "term": "Marcante"
+                  },
+                  {
+                        "term": "Mary Batidão."
+                  },
+                  {
+                        "term": "Mc Platinado"
+                  },
+                  {
+                        "term": "NEW BATIDÃO"
+                  },
+                  {
+                        "term": "Os Mulekes do Mix"
+                  },
+                  {
+                        "term": "Pressão"
+                  },
+                  {
+                        "term": "Triiio do Remix"
+                  },
+                  {
+                        "term": "Vinheta"
+                  },
+                  {
+                        "term": "Waldo Ferreira"
+                  },
+                  {
+                        "term": "mediafire"
+                  },
+                  {
+                        "term": "rock doido 2022"
+                  },
+                  {
+                        "term": "tecnobatidãoromântico"
+                  },
+                  {
+                        "term": "ARK"
+                  },
+                  {
+                        "term": "Arrocha Com Pimenta"
+                  },
+                  {
+                        "term": "Asas Livres"
+                  },
+                  {
+                        "term": "Banda  Flowser Batidão"
+                  },
+                  {
+                        "term": "Banda Ark"
+                  },
+                  {
+                        "term": "Banda Desejo Proibido"
+                  },
+                  {
+                        "term": "Banda Elite Pará"
+                  },
+                  {
+                        "term": "Banda Halley"
+                  },
+                  {
+                        "term": "Banda Portal do Arrocha"
+                  },
+                  {
+                        "term": "Banda Tribo do Batidão"
+                  },
+                  {
+                        "term": "Bregas"
+                  },
+                  {
+                        "term": "Cds Rubi Light Boy"
+                  },
+                  {
+                        "term": "Coxinha Produções"
+                  },
+                  {
+                        "term": "Diego Brasil"
+                  },
+                  {
+                        "term": "Dj Adriano Mix"
+                  },
+                  {
+                        "term": "Dj Benício de Arapiranga"
+                  },
+                  {
+                        "term": "Dj David Wesley"
+                  },
+                  {
+                        "term": "Dj Fernando Nilckson"
+                  },
+                  {
+                        "term": "Dj Harrison"
+                  },
+                  {
+                        "term": "Dj Jaderson Sales"
+                  },
+                  {
+                        "term": "Dj Leo Souza"
+                  },
+                  {
+                        "term": "Dj Magrinho"
+                  },
+                  {
+                        "term": "Dj Maresia Sucesso"
+                  },
+                  {
+                        "term": "Dj Mj"
+                  },
+                  {
+                        "term": "Dj Nilton pedra"
+                  },
+                  {
+                        "term": "Dj Tom Mix"
+                  },
+                  {
+                        "term": "ESTRELA DO MELODY"
+                  },
+                  {
+                        "term": "Fabio Batidão"
+                  },
+                  {
+                        "term": "Felipe Meireles"
+                  },
+                  {
+                        "term": "GUERREIROS DO MELODY"
+                  },
+                  {
+                        "term": "Garoto Batidão"
+                  },
+                  {
+                        "term": "J.s.m Produções"
+                  },
+                  {
+                        "term": "Luis Nascimento"
+                  },
+                  {
+                        "term": "Marley Thierry"
+                  },
+                  {
+                        "term": "May Love"
+                  },
+                  {
+                        "term": "Mc Gus"
+                  },
+                  {
+                        "term": "Os Piratas do Mix"
+                  },
+                  {
+                        "term": "PA Produções"
+                  },
+                  {
+                        "term": "Rayzinho e Trio"
+                  },
+                  {
+                        "term": "Samya Batidão"
+                  },
+                  {
+                        "term": "Soca"
+                  },
+                  {
+                        "term": "Studio e Produtora BH"
+                  },
+                  {
+                        "term": "Super Dj Willom"
+                  },
+                  {
+                        "term": "Super Gab Som"
+                  },
+                  {
+                        "term": "Techno Brega"
+                  },
+                  {
+                        "term": "Ticy Silva"
+                  },
+                  {
+                        "term": "2023 tecnofunk"
+                  },
+                  {
+                        "term": "Armandinho de Belém"
+                  },
+                  {
+                        "term": "Banda Anjos do Eletro"
+                  },
+                  {
+                        "term": "Banda Blansh"
+                  },
+                  {
+                        "term": "Banda Mega Fox"
+                  },
+                  {
+                        "term": "Banda Mix Melody"
+                  },
+                  {
+                        "term": "Banda Os Karinhas"
+                  },
+                  {
+                        "term": "Banda Prime"
+                  },
+                  {
+                        "term": "Banda Richter"
+                  },
+                  {
+                        "term": "Banda Só no Batidão"
+                  },
+                  {
+                        "term": "Banda Trio Das Marcantes"
+                  },
+                  {
+                        "term": "Banda Vip"
+                  },
+                  {
+                        "term": "Big Som Saudade"
+                  },
+                  {
+                        "term": "Cds Rubi Light"
+                  },
+                  {
+                        "term": "Cyber Dj Jessé"
+                  },
+                  {
+                        "term": "DJ Igor da T.I"
+                  },
+                  {
+                        "term": "Deryk Macedo"
+                  },
+                  {
+                        "term": "Dix das Producoes"
+                  },
+                  {
+                        "term": "Dj Carlos Brasil"
+                  },
+                  {
+                        "term": "Dj Douglas"
+                  },
+                  {
+                        "term": "Dj Fabio Maritubense"
+                  },
+                  {
+                        "term": "Dj Louro Mix"
+                  },
+                  {
+                        "term": "Dj Otimista"
+                  },
+                  {
+                        "term": "Eletrônicas"
+                  },
+                  {
+                        "term": "Eliezer Bruno"
+                  },
+                  {
+                        "term": "Entrada de Show"
+                  },
+                  {
+                        "term": "Flash Back"
+                  },
+                  {
+                        "term": "House Dance"
+                  },
+                  {
+                        "term": "Ibiza Belém Live Music"
+                  },
+                  {
+                        "term": "Keyla Lima"
+                  },
+                  {
+                        "term": "Los Bregas"
+                  },
+                  {
+                        "term": "MC HG"
+                  },
+                  {
+                        "term": "Mayra Medeiros"
+                  },
+                  {
+                        "term": "Mc 5G"
+                  },
+                  {
+                        "term": "Mc Kinho"
+                  },
+                  {
+                        "term": "Mc Menor"
+                  },
+                  {
+                        "term": "Mc Vinny"
+                  },
+                  {
+                        "term": "Mc Will Ferrari"
+                  },
+                  {
+                        "term": "NEW MELODY"
+                  },
+                  {
+                        "term": "Os Supremos do Mix"
+                  },
+                  {
+                        "term": "PASTA DE ARROCHA 2024"
+                  },
+                  {
+                        "term": "PASTA DE TECNOMELODY 2024"
+                  },
+                  {
+                        "term": "Pablo Cantor"
+                  },
+                  {
+                        "term": "Pasta Roupagem Marcante"
+                  },
+                  {
+                        "term": "Rafael"
+                  },
+                  {
+                        "term": "Swingueira"
+                  },
+                  {
+                        "term": "TecnoFunkRomântico"
+                  },
+                  {
+                        "term": "TecnoMeme"
+                  },
+                  {
+                        "term": "Toninho Beat"
+                  },
+                  {
+                        "term": "Willy Show"
+                  },
+                  {
+                        "term": "tecnoxote"
+                  },
+                  {
+                        "term": "Adriano Produções"
+                  },
+                  {
+                        "term": "Banda Atração do Arrocha"
+                  },
+                  {
+                        "term": "Banda Beat Batidão"
+                  },
+                  {
+                        "term": "Banda Braga Show"
+                  },
+                  {
+                        "term": "Banda Free Lance"
+                  },
+                  {
+                        "term": "Banda Los Bregas"
+                  },
+                  {
+                        "term": "Banda Mega Virtual"
+                  },
+                  {
+                        "term": "Banda New Batidão"
+                  },
+                  {
+                        "term": "Banda Pop Sinck"
+                  },
+                  {
+                        "term": "Banda RD"
+                  },
+                  {
+                        "term": "Banda Sabor Açaí"
+                  },
+                  {
+                        "term": "Banda Top 3"
+                  },
+                  {
+                        "term": "Banda Vitrola Sucesso"
+                  },
+                  {
+                        "term": "Banda Xeiro Verde"
+                  },
+                  {
+                        "term": "Banda os Penetras"
+                  },
+                  {
+                        "term": "Binho Produções"
+                  },
+                  {
+                        "term": "Caqueado"
+                  },
+                  {
+                        "term": "Cd RobSom"
+                  },
+                  {
+                        "term": "CrisBrotherMc"
+                  },
+                  {
+                        "term": "Dj Bruno Incomparável"
+                  },
+                  {
+                        "term": "Dj Elias Concordiense"
+                  },
+                  {
+                        "term": "Dj Gabriel da Baixada"
+                  },
+                  {
+                        "term": "Dj Gautamma"
+                  },
+                  {
+                        "term": "Dj Gildo Neon"
+                  },
+                  {
+                        "term": "Dj Jarley Ramon"
+                  },
+                  {
+                        "term": "Dj Juninho Produções"
+                  },
+                  {
+                        "term": "Dj Léo Mix"
+                  },
+                  {
+                        "term": "Dj Léo Original"
+                  },
+                  {
+                        "term": "Dj Manoel Junior"
+                  },
+                  {
+                        "term": "Dj Melquer Junior"
+                  },
+                  {
+                        "term": "Dj Tanny Music"
+                  },
+                  {
+                        "term": "Dj Toninho Xodozão"
+                  },
+                  {
+                        "term": "Dj Werlen Mix"
+                  },
+                  {
+                        "term": "Dj Weverton"
+                  },
+                  {
+                        "term": "Djs Project"
+                  },
+                  {
+                        "term": "Electro House"
+                  },
+                  {
+                        "term": "Elétrico"
+                  },
+                  {
+                        "term": "Felipe Kobiçado"
+                  },
+                  {
+                        "term": "Flavio Miranda"
+                  },
+                  {
+                        "term": "Forrozinho"
+                  },
+                  {
+                        "term": "Gaby Castro"
+                  },
+                  {
+                        "term": "Junnior Chagas"
+                  },
+                  {
+                        "term": "Kirtap"
+                  },
+                  {
+                        "term": "MC Thay"
+                  },
+                  {
+                        "term": "Matheus Thaylor"
+                  },
+                  {
+                        "term": "Mc Erasmo"
+                  },
+                  {
+                        "term": "Mc Kaka"
+                  },
+                  {
+                        "term": "Mc Larissa Terremoto"
+                  },
+                  {
+                        "term": "Mr Catra"
+                  },
+                  {
+                        "term": "Nanda Albuquerque"
+                  },
+                  {
+                        "term": "Nando Silva"
+                  },
+                  {
+                        "term": "Nildo Matos"
+                  },
+                  {
+                        "term": "OS PENETRAS"
+                  },
+                  {
+                        "term": "Os Top do Remix"
+                  },
+                  {
+                        "term": "Pacote Vinhetas"
+                  },
+                  {
+                        "term": "PagoMelody"
+                  },
+                  {
+                        "term": "Paizinho Belém"
+                  },
+                  {
+                        "term": "Paredão Treme Treme"
+                  },
+                  {
+                        "term": "Pasta Trance"
+                  },
+                  {
+                        "term": "Patrycy Beast"
+                  },
+                  {
+                        "term": "Prateado Produções"
+                  },
+                  {
+                        "term": "Rafael Ribeiro Dj"
+                  },
+                  {
+                        "term": "Ricardo Tavares"
+                  },
+                  {
+                        "term": "Ronny Costa e Banda"
+                  },
+                  {
+                        "term": "SK3"
+                  },
+                  {
+                        "term": "Set Music"
+                  },
+                  {
+                        "term": "Studio Audio Show"
+                  },
+                  {
+                        "term": "Taiza Costa"
+                  },
+                  {
+                        "term": "TecnoReggae"
+                  },
+                  {
+                        "term": "The Jdm"
+                  },
+                  {
+                        "term": "Tonny Brasil"
+                  },
+                  {
+                        "term": "TransaReggae"
+                  },
+                  {
+                        "term": "Wagner Fernandes"
+                  },
+                  {
+                        "term": "Walter Junior"
+                  },
+                  {
+                        "term": "Wander Bass"
+                  },
+                  {
+                        "term": "Wanted"
+                  },
+                  {
+                        "term": "melhores"
+                  },
+                  {
+                        "term": "pack acapellas"
+                  },
+                  {
+                        "term": "tecnorave"
+                  },
+                  {
+                        "term": "tecnoretrô"
+                  },
+                  {
+                        "term": "2009"
+                  },
+                  {
+                        "term": "2011"
+                  },
+                  {
+                        "term": "Adailson Oliver"
+                  },
+                  {
+                        "term": "Adilson Ribeiro"
+                  },
+                  {
+                        "term": "Alê Produções"
+                  },
+                  {
+                        "term": "Andrey Viana"
+                  },
+                  {
+                        "term": "André Ferreira"
+                  },
+                  {
+                        "term": "Apolo Ferrari"
+                  },
+                  {
+                        "term": "Arrocha Para Paredão"
+                  },
+                  {
+                        "term": "Banda 50 Graus"
+                  },
+                  {
+                        "term": "Banda Anjos Do Melody"
+                  },
+                  {
+                        "term": "Banda Balada Marcante"
+                  },
+                  {
+                        "term": "Banda Batidão e Cia"
+                  },
+                  {
+                        "term": "Banda Broz"
+                  },
+                  {
+                        "term": "Banda Doce Proibido"
+                  },
+                  {
+                        "term": "Banda Kalango Pop"
+                  },
+                  {
+                        "term": "Banda Love Brega"
+                  },
+                  {
+                        "term": "Banda Mega Batidão"
+                  },
+                  {
+                        "term": "Banda Meu Encanto"
+                  },
+                  {
+                        "term": "Banda Os Fenômenos"
+                  },
+                  {
+                        "term": "Banda Os Mulekes"
+                  },
+                  {
+                        "term": "Banda Ouro Puro"
+                  },
+                  {
+                        "term": "Banda Point da Sofrência"
+                  },
+                  {
+                        "term": "Banda Pérola Negra"
+                  },
+                  {
+                        "term": "Banda Redlay"
+                  },
+                  {
+                        "term": "Banda Sensual"
+                  },
+                  {
+                        "term": "Banda Tac"
+                  },
+                  {
+                        "term": "Banda Techno Pará"
+                  },
+                  {
+                        "term": "Banda Trio do Melody"
+                  },
+                  {
+                        "term": "Bonde do Batidão"
+                  },
+                  {
+                        "term": "Brenda Batidão"
+                  },
+                  {
+                        "term": "Carretinha Kitandinha"
+                  },
+                  {
+                        "term": "Cd Hottwailer"
+                  },
+                  {
+                        "term": "Cd Mineirão"
+                  },
+                  {
+                        "term": "Cd Ultra Potente Prime"
+                  },
+                  {
+                        "term": "Cds Brega"
+                  },
+                  {
+                        "term": "Cds Musistar"
+                  },
+                  {
+                        "term": "Cds Rubi"
+                  },
+                  {
+                        "term": "Cds Tecno Brega"
+                  },
+                  {
+                        "term": "DVD"
+                  },
+                  {
+                        "term": "Danny Crystina"
+                  },
+                  {
+                        "term": "Dix Produtora"
+                  },
+                  {
+                        "term": "Dj Alisson Produções"
+                  },
+                  {
+                        "term": "Dj Andre Halley"
+                  },
+                  {
+                        "term": "Dj André Pancadão"
+                  },
+                  {
+                        "term": "Dj Bruno"
+                  },
+                  {
+                        "term": "Dj Bruno Production"
+                  },
+                  {
+                        "term": "Dj Cleiton Arrasador"
+                  },
+                  {
+                        "term": "Dj Cléo Mix o Eletrizante"
+                  },
+                  {
+                        "term": "Dj Douglas Super"
+                  },
+                  {
+                        "term": "Dj Eduardo Monteiro"
+                  },
+                  {
+                        "term": "Dj Flávio"
+                  },
+                  {
+                        "term": "Dj Gabriel Mix Produções"
+                  },
+                  {
+                        "term": "Dj Gargaminha"
+                  },
+                  {
+                        "term": "Dj Gilberto Mix"
+                  },
+                  {
+                        "term": "Dj Jefferson Izabelense"
+                  },
+                  {
+                        "term": "Dj Joelson Produções"
+                  },
+                  {
+                        "term": "Dj Jorge Project"
+                  },
+                  {
+                        "term": "Dj Juninho Mix"
+                  },
+                  {
+                        "term": "Dj Leandro Show de Castanhal"
+                  },
+                  {
+                        "term": "Dj Lorran Oficial de Macapa"
+                  },
+                  {
+                        "term": "Dj Marcos Super"
+                  },
+                  {
+                        "term": "Dj Martinez"
+                  },
+                  {
+                        "term": "Dj Melk New Project"
+                  },
+                  {
+                        "term": "Dj Nailton Souza"
+                  },
+                  {
+                        "term": "Dj Netinho Pressão"
+                  },
+                  {
+                        "term": "Dj Oto Mix"
+                  },
+                  {
+                        "term": "Dj Punk"
+                  },
+                  {
+                        "term": "Dj Ramon"
+                  },
+                  {
+                        "term": "Dj Renan Hi-Fi"
+                  },
+                  {
+                        "term": "Dj Robert Pressão"
+                  },
+                  {
+                        "term": "Dj Robson Tribal"
+                  },
+                  {
+                        "term": "Dj Ronel Morais"
+                  },
+                  {
+                        "term": "Dj Rony Waleck"
+                  },
+                  {
+                        "term": "Dj Samuel Produções"
+                  },
+                  {
+                        "term": "Dj Tarcisio Fdm"
+                  },
+                  {
+                        "term": "Dj Taz"
+                  },
+                  {
+                        "term": "Dj Thais"
+                  },
+                  {
+                        "term": "Dj Zico Mix"
+                  },
+                  {
+                        "term": "Dudu Produções"
+                  },
+                  {
+                        "term": "EXTREMECE"
+                  },
+                  {
+                        "term": "Gabriel Barros"
+                  },
+                  {
+                        "term": "Gerson Thirrê"
+                  },
+                  {
+                        "term": "Gil do Arrocha"
+                  },
+                  {
+                        "term": "HE MAN E BANDA"
+                  },
+                  {
+                        "term": "Jamille"
+                  },
+                  {
+                        "term": "Jhessy Santos"
+                  },
+                  {
+                        "term": "Junior Safro"
+                  },
+                  {
+                        "term": "Jurandy"
+                  },
+                  {
+                        "term": "KALANGO SHOW"
+                  },
+                  {
+                        "term": "Kazinha Dos Teclados"
+                  },
+                  {
+                        "term": "Kellen Serrão"
+                  },
+                  {
+                        "term": "Kit"
+                  },
+                  {
+                        "term": "Lenne Bandeira"
+                  },
+                  {
+                        "term": "Leonardo Raoni"
+                  },
+                  {
+                        "term": "Link Patrocinado"
+                  },
+                  {
+                        "term": "Luuh Sousa"
+                  },
+                  {
+                        "term": "M SYNCK"
+                  },
+                  {
+                        "term": "MALUQUINHO"
+                  },
+                  {
+                        "term": "MULEKE DO MELODY"
+                  },
+                  {
+                        "term": "Maluco do Melody"
+                  },
+                  {
+                        "term": "Mano Dix"
+                  },
+                  {
+                        "term": "Markinho Produções"
+                  },
+                  {
+                        "term": "Mc Gauchinho"
+                  },
+                  {
+                        "term": "Mc Kell Beat"
+                  },
+                  {
+                        "term": "Mc Luck"
+                  },
+                  {
+                        "term": "Mc Marcinho"
+                  },
+                  {
+                        "term": "Mc Mulekinho"
+                  },
+                  {
+                        "term": "Mc Rey Chapa Quente"
+                  },
+                  {
+                        "term": "Mc Sindy"
+                  },
+                  {
+                        "term": "Mc Viniih"
+                  },
+                  {
+                        "term": "Michele Batidão"
+                  },
+                  {
+                        "term": "Mid Back"
+                  },
+                  {
+                        "term": "Netinho"
+                  },
+                  {
+                        "term": "PATRYCK"
+                  },
+                  {
+                        "term": "Pacote Axé Melody 2019 #Carnaval2019"
+                  },
+                  {
+                        "term": "Pacote Dj Ronaldo Maresia (Exclusivas)"
+                  },
+                  {
+                        "term": "Pacote Forró"
+                  },
+                  {
+                        "term": "Pasta Sertanejo"
+                  },
+                  {
+                        "term": "Quadrilha"
+                  },
+                  {
+                        "term": "Reis do Arrocha"
+                  },
+                  {
+                        "term": "Remake"
+                  },
+                  {
+                        "term": "Rubi Saudade"
+                  },
+                  {
+                        "term": "Sandra Aragão"
+                  },
+                  {
+                        "term": "Selma lemos"
+                  },
+                  {
+                        "term": "Silvanno Salles"
+                  },
+                  {
+                        "term": "Soeiro Produções"
+                  },
+                  {
+                        "term": "Spm"
+                  },
+                  {
+                        "term": "Studio M Produções"
+                  },
+                  {
+                        "term": "Suellen Black"
+                  },
+                  {
+                        "term": "SÓ NO BATIDÃO"
+                  },
+                  {
+                        "term": "TRIBO DO BATIDÃO"
+                  },
+                  {
+                        "term": "Tecno funk março 2021"
+                  },
+                  {
+                        "term": "Tecnomelody 2021c"
+                  },
+                  {
+                        "term": "Xote E Forró"
+                  },
+                  {
+                        "term": "Yanzinho"
+                  },
+                  {
+                        "term": "bruna melo"
+                  },
+                  {
+                        "term": "carnaval 2019"
+                  },
+                  {
+                        "term": "cl"
+                  },
+                  {
+                        "term": "intro"
+                  },
+                  {
+                        "term": "tecnofunk março 2019"
+                  },
+                  {
+                        "term": "2004"
+                  },
+                  {
+                        "term": "2005"
+                  },
+                  {
+                        "term": "2021\ndancinhas"
+                  },
+                  {
+                        "term": "A Dupla Fusion do Mix"
+                  },
+                  {
+                        "term": "AJUDE O SITE"
+                  },
+                  {
+                        "term": "ALEXN"
+                  },
+                  {
+                        "term": "AR-17"
+                  },
+                  {
+                        "term": "AXE ELETRICO"
+                  },
+                  {
+                        "term": "Ad Markes"
+                  },
+                  {
+                        "term": "Adailson Junior"
+                  },
+                  {
+                        "term": "Alba Prata"
+                  },
+                  {
+                        "term": "Alessandro dos Teclados"
+                  },
+                  {
+                        "term": "Aliados do Mix"
+                  },
+                  {
+                        "term": "Allyson Batidão"
+                  },
+                  {
+                        "term": "Anjinho do Melody"
+                  },
+                  {
+                        "term": "Anne Karly"
+                  },
+                  {
+                        "term": "Anny"
+                  },
+                  {
+                        "term": "Arthur Silva"
+                  },
+                  {
+                        "term": "Axé Eletrico 2020"
+                  },
+                  {
+                        "term": "BONDE DA TREMIDINHA"
+                  },
+                  {
+                        "term": "Banda 47"
+                  },
+                  {
+                        "term": "Banda Anjo Negro"
+                  },
+                  {
+                        "term": "Banda Anjos Sem Limites"
+                  },
+                  {
+                        "term": "Banda Aviôes do Brega"
+                  },
+                  {
+                        "term": "Banda Batidão Incomparável"
+                  },
+                  {
+                        "term": "Banda Batidão Paidégua"
+                  },
+                  {
+                        "term": "Banda Belém"
+                  },
+                  {
+                        "term": "Banda Brega.com"
+                  },
+                  {
+                        "term": "Banda Caferana Pop"
+                  },
+                  {
+                        "term": "Banda Conexão do Melody"
+                  },
+                  {
+                        "term": "Banda Desejo Ardente"
+                  },
+                  {
+                        "term": "Banda Doce Desejo"
+                  },
+                  {
+                        "term": "Banda Doce Melodya"
+                  },
+                  {
+                        "term": "Banda Doce Tentação"
+                  },
+                  {
+                        "term": "Banda Dr7"
+                  },
+                  {
+                        "term": "Banda Electro Beat"
+                  },
+                  {
+                        "term": "Banda Encontrar"
+                  },
+                  {
+                        "term": "Banda Esquema Andrade"
+                  },
+                  {
+                        "term": "Banda Ison"
+                  },
+                  {
+                        "term": "Banda K3"
+                  },
+                  {
+                        "term": "Banda Karas"
+                  },
+                  {
+                        "term": "Banda Katrina"
+                  },
+                  {
+                        "term": "Banda Lah Batida"
+                  },
+                  {
+                        "term": "Banda Lk"
+                  },
+                  {
+                        "term": "Banda Love Top"
+                  },
+                  {
+                        "term": "Banda Lá Ventura"
+                  },
+                  {
+                        "term": "Banda MK"
+                  },
+                  {
+                        "term": "Banda Markinha Preta"
+                  },
+                  {
+                        "term": "Banda Mega 3G"
+                  },
+                  {
+                        "term": "Banda Mega Hits"
+                  },
+                  {
+                        "term": "Banda Mega T"
+                  },
+                  {
+                        "term": "Banda Multi Show"
+                  },
+                  {
+                        "term": "Banda Np7"
+                  },
+                  {
+                        "term": "Banda Os Incríveis do Melody"
+                  },
+                  {
+                        "term": "Banda Pantera"
+                  },
+                  {
+                        "term": "Banda Pegada Morena"
+                  },
+                  {
+                        "term": "Banda Pegada Pop"
+                  },
+                  {
+                        "term": "Banda Play 7"
+                  },
+                  {
+                        "term": "Banda Resistência"
+                  },
+                  {
+                        "term": "Banda Revolution"
+                  },
+                  {
+                        "term": "Banda Signos Show"
+                  },
+                  {
+                        "term": "Banda Sk3"
+                  },
+                  {
+                        "term": "Banda Super Live"
+                  },
+                  {
+                        "term": "Banda Swing do Melody"
+                  },
+                  {
+                        "term": "Banda Swing do Techno"
+                  },
+                  {
+                        "term": "Banda Swing do Tecno"
+                  },
+                  {
+                        "term": "Banda Tecno Love"
+                  },
+                  {
+                        "term": "Banda Tecno Vip"
+                  },
+                  {
+                        "term": "Banda The Five"
+                  },
+                  {
+                        "term": "Banda Tri Star"
+                  },
+                  {
+                        "term": "Banda Trio Melodia"
+                  },
+                  {
+                        "term": "Banda Tropa do Melody"
+                  },
+                  {
+                        "term": "Banda Ultra Face"
+                  },
+                  {
+                        "term": "Banda Voo do Arrocha"
+                  },
+                  {
+                        "term": "Banda Vírus Musical"
+                  },
+                  {
+                        "term": "Banda X"
+                  },
+                  {
+                        "term": "Banda X10"
+                  },
+                  {
+                        "term": "Banda X2"
+                  },
+                  {
+                        "term": "Banda X32"
+                  },
+                  {
+                        "term": "Banda da Nova Show"
+                  },
+                  {
+                        "term": "Benny Benassi"
+                  },
+                  {
+                        "term": "Bia Cantão"
+                  },
+                  {
+                        "term": "Bigas Balldy"
+                  },
+                  {
+                        "term": "Biu do Piseiro"
+                  },
+                  {
+                        "term": "Bolero"
+                  },
+                  {
+                        "term": "Bonde Das Marcantes"
+                  },
+                  {
+                        "term": "Bonde da Sofrencia"
+                  },
+                  {
+                        "term": "Br"
+                  },
+                  {
+                        "term": "Bruninho Braz"
+                  },
+                  {
+                        "term": "Bruninho Produções"
+                  },
+                  {
+                        "term": "Carnaval"
+                  },
+                  {
+                        "term": "Carreta Treme Treme"
+                  },
+                  {
+                        "term": "Cavalo Sound"
+                  },
+                  {
+                        "term": "Cd Diamante Light"
+                  },
+                  {
+                        "term": "Cd Melody"
+                  },
+                  {
+                        "term": "Cds Diamantina"
+                  },
+                  {
+                        "term": "Cds Mega Marajoara"
+                  },
+                  {
+                        "term": "Chico Salles"
+                  },
+                  {
+                        "term": "Claudio Nunes"
+                  },
+                  {
+                        "term": "Companhia do Calypso"
+                  },
+                  {
+                        "term": "Cristian Becker"
+                  },
+                  {
+                        "term": "Cultura Beat"
+                  },
+                  {
+                        "term": "Cumbia"
+                  },
+                  {
+                        "term": "Cyber Dj Alex"
+                  },
+                  {
+                        "term": "Cyber Dj Junior"
+                  },
+                  {
+                        "term": "Cúmbia"
+                  },
+                  {
+                        "term": "D.n.t"
+                  },
+                  {
+                        "term": "DILL E HOX"
+                  },
+                  {
+                        "term": "DJ"
+                  },
+                  {
+                        "term": "DJ JEAN MIX"
+                  },
+                  {
+                        "term": "DJ JESSE"
+                  },
+                  {
+                        "term": "Danizynha do Arrocha"
+                  },
+                  {
+                        "term": "Dawison Reis"
+                  },
+                  {
+                        "term": "Dayse Santana"
+                  },
+                  {
+                        "term": "Deyvid Carvalho"
+                  },
+                  {
+                        "term": "Dj Adriel do Taua"
+                  },
+                  {
+                        "term": "Dj Andre Pancadão"
+                  },
+                  {
+                        "term": "Dj Andre Project"
+                  },
+                  {
+                        "term": "Dj Big"
+                  },
+                  {
+                        "term": "Dj Bruno Produções"
+                  },
+                  {
+                        "term": "Dj Caio Mix"
+                  },
+                  {
+                        "term": "Dj Cassinho 3D"
+                  },
+                  {
+                        "term": "Dj Cleiton Arrazador"
+                  },
+                  {
+                        "term": "Dj Coca Cola"
+                  },
+                  {
+                        "term": "Dj Dieguinho"
+                  },
+                  {
+                        "term": "Dj Douglas Digital"
+                  },
+                  {
+                        "term": "Dj Eduardo Disguiado"
+                  },
+                  {
+                        "term": "Dj Ewerthon"
+                  },
+                  {
+                        "term": "Dj Ganso Mix"
+                  },
+                  {
+                        "term": "Dj Handerson Wander"
+                  },
+                  {
+                        "term": "Dj Henrique Martins"
+                  },
+                  {
+                        "term": "Dj Irlan Productions"
+                  },
+                  {
+                        "term": "Dj Joelzinho Do Amapá"
+                  },
+                  {
+                        "term": "Dj Junior Nuclear"
+                  },
+                  {
+                        "term": "Dj Kabal"
+                  },
+                  {
+                        "term": "Dj Kaio Izabelense"
+                  },
+                  {
+                        "term": "Dj Luan Pankadão"
+                  },
+                  {
+                        "term": "Dj Lucas"
+                  },
+                  {
+                        "term": "Dj Lucas Produções"
+                  },
+                  {
+                        "term": "Dj Lucas Ramos"
+                  },
+                  {
+                        "term": "Dj Luiz Claudio"
+                  },
+                  {
+                        "term": "Dj Luizpoderoso Chefao"
+                  },
+                  {
+                        "term": "Dj Magal"
+                  },
+                  {
+                        "term": "Dj Maikon Show"
+                  },
+                  {
+                        "term": "Dj Marcio Ferreira"
+                  },
+                  {
+                        "term": "Dj Marujo"
+                  },
+                  {
+                        "term": "Dj Mateus"
+                  },
+                  {
+                        "term": "Dj Ney  Consagrado do Studio Mini Mix"
+                  },
+                  {
+                        "term": "Dj Ney Consagrado"
+                  },
+                  {
+                        "term": "Dj Patrese"
+                  },
+                  {
+                        "term": "Dj Patrick The"
+                  },
+                  {
+                        "term": "Dj Patryck Beast"
+                  },
+                  {
+                        "term": "Dj Paulinho Boy"
+                  },
+                  {
+                        "term": "Dj Rafa 3D"
+                  },
+                  {
+                        "term": "Dj Raru Absoluto"
+                  },
+                  {
+                        "term": "Dj Rebelde Mix"
+                  },
+                  {
+                        "term": "Dj Ricardo Ms"
+                  },
+                  {
+                        "term": "Dj Rodrigo Campos"
+                  },
+                  {
+                        "term": "Dj Sassa Moral"
+                  },
+                  {
+                        "term": "Dj Savio Produções"
+                  },
+                  {
+                        "term": "Dj Taylon"
+                  },
+                  {
+                        "term": "Dj Teco Mix"
+                  },
+                  {
+                        "term": "Dj Thiaguinho Top"
+                  },
+                  {
+                        "term": "Dj Twister"
+                  },
+                  {
+                        "term": "Dj Wanderson Show"
+                  },
+                  {
+                        "term": "Djramonzinho"
+                  },
+                  {
+                        "term": "Djs Panck e Riony"
+                  },
+                  {
+                        "term": "Dúiliu Produções"
+                  },
+                  {
+                        "term": "Edinaldo Lemos"
+                  },
+                  {
+                        "term": "Edson Lourenço"
+                  },
+                  {
+                        "term": "Edy Junior"
+                  },
+                  {
+                        "term": "Eletro Melody"
+                  },
+                  {
+                        "term": "Emy Oliveira"
+                  },
+                  {
+                        "term": "Ermeson Mix"
+                  },
+                  {
+                        "term": "Espetacular Nova Dimensão"
+                  },
+                  {
+                        "term": "Fale conosco"
+                  },
+                  {
+                        "term": "Faça Sua Vinheta"
+                  },
+                  {
+                        "term": "Felipe Matheus"
+                  },
+                  {
+                        "term": "Fofinho Do Arrocha"
+                  },
+                  {
+                        "term": "Fábio Batidão"
+                  },
+                  {
+                        "term": "Gabriel Considerado"
+                  },
+                  {
+                        "term": "Gang do Batidão"
+                  },
+                  {
+                        "term": "Gang do Funk"
+                  },
+                  {
+                        "term": "Gaspazinho"
+                  },
+                  {
+                        "term": "Grupo Arrocha"
+                  },
+                  {
+                        "term": "Guitarradas"
+                  },
+                  {
+                        "term": "Isaac Produções"
+                  },
+                  {
+                        "term": "Ison Live Show"
+                  },
+                  {
+                        "term": "Issac Produções"
+                  },
+                  {
+                        "term": "Ivan Guedes"
+                  },
+                  {
+                        "term": "Jackeline"
+                  },
+                  {
+                        "term": "Jeanzinho e Gabriel"
+                  },
+                  {
+                        "term": "Jhessy Oliveira"
+                  },
+                  {
+                        "term": "Jordy Soares"
+                  },
+                  {
+                        "term": "Jorginho Light"
+                  },
+                  {
+                        "term": "Jose Mauricio"
+                  },
+                  {
+                        "term": "Juninho dos Teclados"
+                  },
+                  {
+                        "term": "Junior"
+                  },
+                  {
+                        "term": "Junior Fernandes"
+                  },
+                  {
+                        "term": "Junior Gaza"
+                  },
+                  {
+                        "term": "Junior Rêgo"
+                  },
+                  {
+                        "term": "Kabal Jr"
+                  },
+                  {
+                        "term": "Kacau Silva"
+                  },
+                  {
+                        "term": "Kaio Diniz"
+                  },
+                  {
+                        "term": "Kallebi"
+                  },
+                  {
+                        "term": "Kawã Show"
+                  },
+                  {
+                        "term": "Kimberly"
+                  },
+                  {
+                        "term": "Kioschy Produções"
+                  },
+                  {
+                        "term": "Lah rodrigues"
+                  },
+                  {
+                        "term": "Lhy Rocha"
+                  },
+                  {
+                        "term": "Lima Neto"
+                  },
+                  {
+                        "term": "Luciano Jr e Trio"
+                  },
+                  {
+                        "term": "Luh Batidão"
+                  },
+                  {
+                        "term": "Ly Rocha"
+                  },
+                  {
+                        "term": "Lyh Rocha"
+                  },
+                  {
+                        "term": "MALOKAS"
+                  },
+                  {
+                        "term": "MANDELÃO"
+                  },
+                  {
+                        "term": "MC San'cort"
+                  },
+                  {
+                        "term": "MENINA DO MELODY"
+                  },
+                  {
+                        "term": "Madson Frazão"
+                  },
+                  {
+                        "term": "Manu Barbosa"
+                  },
+                  {
+                        "term": "Marcelo Aguiar"
+                  },
+                  {
+                        "term": "Marcelo Gaúcho"
+                  },
+                  {
+                        "term": "Marcelo Wall"
+                  },
+                  {
+                        "term": "Marcio Rodrigues"
+                  },
+                  {
+                        "term": "Marcio Sill"
+                  },
+                  {
+                        "term": "Marquinho Saudade"
+                  },
+                  {
+                        "term": "Mc Cachorrão"
+                  },
+                  {
+                        "term": "Mc Dery"
+                  },
+                  {
+                        "term": "Mc Dix"
+                  },
+                  {
+                        "term": "Mc Gasparzinho"
+                  },
+                  {
+                        "term": "Mc Gui"
+                  },
+                  {
+                        "term": "Mc Juninho"
+                  },
+                  {
+                        "term": "Mc Juninho Bs"
+                  },
+                  {
+                        "term": "Mc Kauan"
+                  },
+                  {
+                        "term": "Mc Kekel"
+                  },
+                  {
+                        "term": "Mc Ki"
+                  },
+                  {
+                        "term": "Mc Leandro Show"
+                  },
+                  {
+                        "term": "Mc Leo da Quebrada"
+                  },
+                  {
+                        "term": "Mc Levi"
+                  },
+                  {
+                        "term": "Mc Mailson"
+                  },
+                  {
+                        "term": "Mc Maneirinho"
+                  },
+                  {
+                        "term": "Mc Menor Boladão"
+                  },
+                  {
+                        "term": "Mc Mozão"
+                  },
+                  {
+                        "term": "Mc Nicolau"
+                  },
+                  {
+                        "term": "Mc Palinha"
+                  },
+                  {
+                        "term": "Mc R2"
+                  },
+                  {
+                        "term": "Mc Ronizinho"
+                  },
+                  {
+                        "term": "Mc Will"
+                  },
+                  {
+                        "term": "Melo\ndy 2021"
+                  },
+                  {
+                        "term": "MeloBrega"
+                  },
+                  {
+                        "term": "Michel Brunay"
+                  },
+                  {
+                        "term": "Michelly Batidão"
+                  },
+                  {
+                        "term": "Mist Kupp"
+                  },
+                  {
+                        "term": "Monica Lins e Almir Santos"
+                  },
+                  {
+                        "term": "Mr Catra Cover"
+                  },
+                  {
+                        "term": "Mônica Lins"
+                  },
+                  {
+                        "term": "Nayara Gomes"
+                  },
+                  {
+                        "term": "Neias Mendes"
+                  },
+                  {
+                        "term": "Neias Produções"
+                  },
+                  {
+                        "term": "Nelsinho Rodrigues"
+                  },
+                  {
+                        "term": "Nenho"
+                  },
+                  {
+                        "term": "Netinho Produções"
+                  },
+                  {
+                        "term": "New Boy"
+                  },
+                  {
+                        "term": "Neyzinho e Banda"
+                  },
+                  {
+                        "term": "Niwdo Show"
+                  },
+                  {
+                        "term": "Noisy Dj"
+                  },
+                  {
+                        "term": "Olemax"
+                  },
+                  {
+                        "term": "Pacote (Acústico E Caqueado) Banda 007 E Banda W7 (Setembro) 2019"
+                  },
+                  {
+                        "term": "Pacote Acapellas Marcantes (Mega Pacote) 172 Mp3"
+                  },
+                  {
+                        "term": "Pacote Acapellas Melody Marcantes 2009 - 01"
+                  },
+                  {
+                        "term": "Pacote Arrocha (Agosto) 2019"
+                  },
+                  {
+                        "term": "Pacote Arrocha Janeiro e Fevereiro 2019"
+                  },
+                  {
+                        "term": "Pacote Arrocha Setembro 2019"
+                  },
+                  {
+                        "term": "Pacote Bregas Antigo Solo (Exclusivo)"
+                  },
+                  {
+                        "term": "Pacote De Vinhetas Especial Fim De Ano 2019 (Exclusivo) Dj Manoel Junior"
+                  },
+                  {
+                        "term": "Pacote De Vinhetas Laser Vs Impacto 2019"
+                  },
+                  {
+                        "term": "Pacote Melody 2006"
+                  },
+                  {
+                        "term": "Pacote Melody 2007"
+                  },
+                  {
+                        "term": "Pacote Melody 2008"
+                  },
+                  {
+                        "term": "Pacote Melody 2009"
+                  },
+                  {
+                        "term": "Pacote Tecno Melody Outubro 2019"
+                  },
+                  {
+                        "term": "Pacote Tecno Melody Setembro 2019"
+                  },
+                  {
+                        "term": "Pacote TecnoMelody 2 Novembro 2019"
+                  },
+                  {
+                        "term": "Pacote TecnoMelody 2 Outubro 2019"
+                  },
+                  {
+                        "term": "Pacote TecnoMelody 2 Setembro 2019"
+                  },
+                  {
+                        "term": "Pacote TecnoMelody Novembro 2019"
+                  },
+                  {
+                        "term": "Pacote Tecnofunk Janeiro e Fevereiro 2019"
+                  },
+                  {
+                        "term": "Pacote Tecnomelody Janeiro e Fevereiro 2019"
+                  },
+                  {
+                        "term": "Pacote de Arrocha - Mês Novembro 2018"
+                  },
+                  {
+                        "term": "Pacote de Arrocha - Mês Outubro 2018"
+                  },
+                  {
+                        "term": "Pacote de Arrocha - Mês Setembro 2018"
+                  },
+                  {
+                        "term": "Pacote de TecnoFunk - Mês Outubro 2018"
+                  },
+                  {
+                        "term": "Pacote de TecnoFunk - Mês Setembro 2018"
+                  },
+                  {
+                        "term": "Pacote de TecnoMelody - Mês Abril 2018"
+                  },
+                  {
+                        "term": "Pacote de TecnoMelody - Mês Maio 2018"
+                  },
+                  {
+                        "term": "Pacote de TecnoMelody - Mês Outubro 2018"
+                  },
+                  {
+                        "term": "Pacote de TecnoMelody - Mês Setembro 2018"
+                  },
+                  {
+                        "term": "Pacote de Tecnofunk - Mês Maio 2018"
+                  },
+                  {
+                        "term": "Pacote de Tecnofunk - Mês Novembro 2018"
+                  },
+                  {
+                        "term": "Pacote de Tecnomelody - Mês Novembro 2018"
+                  },
+                  {
+                        "term": "Pasta Acapelas Selecionadas 1"
+                  },
+                  {
+                        "term": "Pasta Acapelas Selecionadas 2"
+                  },
+                  {
+                        "term": "Pasta Acapelas Selecionadas 3"
+                  },
+                  {
+                        "term": "Pasta Axé Melody"
+                  },
+                  {
+                        "term": "Pasta Bregas Solo"
+                  },
+                  {
+                        "term": "Pasta Melody 2015"
+                  },
+                  {
+                        "term": "Pasta Melody 2016"
+                  },
+                  {
+                        "term": "Paulo Beat"
+                  },
+                  {
+                        "term": "Paulo Pirata"
+                  },
+                  {
+                        "term": "Poderoso Rubi Marcantes"
+                  },
+                  {
+                        "term": "Premier Saudade"
+                  },
+                  {
+                        "term": "Priscila Beltrão"
+                  },
+                  {
+                        "term": "Produções"
+                  },
+                  {
+                        "term": "Projeto Para Remix"
+                  },
+                  {
+                        "term": "Quelson Moreira dos Anjos"
+                  },
+                  {
+                        "term": "Rafaela Sales"
+                  },
+                  {
+                        "term": "Rafal barros"
+                  },
+                  {
+                        "term": "Raiza Saraiva"
+                  },
+                  {
+                        "term": "Rap Melody"
+                  },
+                  {
+                        "term": "Reggae"
+                  },
+                  {
+                        "term": "Renata Elen"
+                  },
+                  {
+                        "term": "Renata L"
+                  },
+                  {
+                        "term": "Ricardinho do Melody"
+                  },
+                  {
+                        "term": "Ricky Brandão"
+                  },
+                  {
+                        "term": "Rondy Dias"
+                  },
+                  {
+                        "term": "Ronny Gomes"
+                  },
+                  {
+                        "term": "SET\n2021"
+                  },
+                  {
+                        "term": "Sergio Vidal"
+                  },
+                  {
+                        "term": "Set Psicopata"
+                  },
+                  {
+                        "term": "Star Audio"
+                  },
+                  {
+                        "term": "Studio JC Visual Arte Produções"
+                  },
+                  {
+                        "term": "Studio Power Music"
+                  },
+                  {
+                        "term": "Studio Produções de Vigia"
+                  },
+                  {
+                        "term": "TENHA SUA RÁDIO"
+                  },
+                  {
+                        "term": "TH"
+                  },
+                  {
+                        "term": "TROPA DO MELODY"
+                  },
+                  {
+                        "term": "Tahis Porpino"
+                  },
+                  {
+                        "term": "Tammy Girl"
+                  },
+                  {
+                        "term": "Tayron e Felipp"
+                  },
+                  {
+                        "term": "TecnoForro"
+                  },
+                  {
+                        "term": "TecnoGospel"
+                  },
+                  {
+                        "term": "TecnoTrance"
+                  },
+                  {
+                        "term": "TecnoVinheta"
+                  },
+                  {
+                        "term": "Tecnopop"
+                  },
+                  {
+                        "term": "Thais Porpino"
+                  },
+                  {
+                        "term": "Tonny Carlos"
+                  },
+                  {
+                        "term": "Tony Edson"
+                  },
+                  {
+                        "term": "Trance"
+                  },
+                  {
+                        "term": "TransaMelody"
+                  },
+                  {
+                        "term": "Treme Tudo Vanguard"
+                  },
+                  {
+                        "term": "Trio Arrocha"
+                  },
+                  {
+                        "term": "Ts Produções"
+                  },
+                  {
+                        "term": "Valdo Vieira"
+                  },
+                  {
+                        "term": "Valdo Vieira e Izabelly Dias"
+                  },
+                  {
+                        "term": "Valéria Paiva"
+                  },
+                  {
+                        "term": "Vinhetas e Logo do Site Melody Brazil"
+                  },
+                  {
+                        "term": "Vitinho Ferrari"
+                  },
+                  {
+                        "term": "WF"
+                  },
+                  {
+                        "term": "Wagner Gusmão"
+                  },
+                  {
+                        "term": "Walder Bass"
+                  },
+                  {
+                        "term": "Walketh"
+                  },
+                  {
+                        "term": "Wallace Ná Voz"
+                  },
+                  {
+                        "term": "Wallace Vulcão"
+                  },
+                  {
+                        "term": "Walter Bass"
+                  },
+                  {
+                        "term": "Walter Melo"
+                  },
+                  {
+                        "term": "Wanda Ravelly"
+                  },
+                  {
+                        "term": "Welber Pinheiro"
+                  },
+                  {
+                        "term": "XCalypso"
+                  },
+                  {
+                        "term": "Zouk"
+                  },
+                  {
+                        "term": "]"
+                  },
+                  {
+                        "term": "bonde das maravilhas"
+                  },
+                  {
+                        "term": "cds ao"
+                  },
+                  {
+                        "term": "cds super Sônico"
+                  },
+                  {
+                        "term": "dj kayky stronda"
+                  },
+                  {
+                        "term": "dj marcus"
+                  },
+                  {
+                        "term": "edit"
+                  },
+                  {
+                        "term": "junior Batidão"
+                  },
+                  {
+                        "term": "mc dimagrinho"
+                  },
+                  {
+                        "term": "mc jhon jhon"
+                  },
+                  {
+                        "term": "mc san cort"
+                  },
+                  {
+                        "term": "ricky"
+                  },
+                  {
+                        "term": "tecnno melody"
+                  },
+                  {
+                        "term": "tecno meme"
+                  },
+                  {
+                        "term": "tecnomelody2024"
+                  }
+            ],
+            "title": {
+                  "type": "text",
+                  "$t": "Melody Brazil - Melody 2024"
+            },
+            "subtitle": {
+                  "type": "html",
+                  "$t": "Melody Brazil Downloads - Baixar Melody, Arrocha, Tecnomelody , Vinhetas"
+            },
+            "link": [
+                  {
+                        "rel": "http://schemas.google.com/g/2005#feed",
+                        "type": "application/atom+xml",
+                        "href": "https:\/\/www.melodybrazil.com\/feeds\/posts\/summary"
+                  },
+                  {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/summary?alt=json-in-script\u0026max-results=10"
+                  },
+                  {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https:\/\/www.melodybrazil.com\/"
+                  },
+                  {
+                        "rel": "hub",
+                        "href": "http://pubsubhubbub.appspot.com/"
+                  },
+                  {
+                        "rel": "next",
+                        "type": "application/atom+xml",
+                        "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/summary?alt=json-in-script\u0026start-index=11\u0026max-results=10"
+                  }
+            ],
+            "author": [
+                  {
+                        "name": {
+                              "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                              "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                        },
+                        "email": {
+                              "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                              "rel": "http://schemas.google.com/g/2005#thumbnail",
+                              "width": "31",
+                              "height": "27",
+                              "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                        }
+                  }
+            ],
+            "generator": {
+                  "version": "7.00",
+                  "uri": "http://www.blogger.com",
+                  "$t": "Blogger"
+            },
+            "openSearch$totalResults": {
+                  "$t": "29632"
+            },
+            "openSearch$startIndex": {
+                  "$t": "1"
+            },
+            "openSearch$itemsPerPage": {
+                  "$t": "10"
+            },
+            "entry": [
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-5963469627445496930"
+                        },
+                        "published": {
+                              "$t": "2024-03-06T11:57:00.006-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-06T12:06:40.851-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "DJ Junior Sales"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "Wanted"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "DJ JUNIOR SALES E WANTED - MARIA MARIAH ( REMIX QUALIDADE ) "
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/5963469627445496930\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-junior-sales-e-wanted-maria-mariah.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/5963469627445496930"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/5963469627445496930"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-junior-sales-e-wanted-maria-mariah.html",
+                                    "title": "DJ JUNIOR SALES E WANTED - MARIA MARIAH ( REMIX QUALIDADE ) "
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "DJ JUNIOR SALES"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/01194046765169265900"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "32",
+                                          "height": "32",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiiBqdNa9TDii0dszfwXS_DdeMWdMkJ5isQr_230Fj1kY087C6c4BBSRzs_eTnkVZjNUnhTGEkb50f5KPuRW-iUt3t4pXkDj4dxs_a-q4lX7YLaZPHhRmXNQk_izdOldg\/s220\/Sem+t%C3%ADtulo-5+%281%29.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhWWbU2Wtq3J3mkVK1LlhyphenhyphenUtcatH4htHw94FDKEO-qzxBAweA8zEW62qBL0NR9waPX41bdQH0FtEo0ys1FsWDxfp85EmHQ2VxoyJzBHJ5ln1rQdyVK2Y7zUFqVTOkf-ammhburxZbv6eWXI613zdJwMLjEHM_Nue0htiHbp755oHgGaJ6ejTDg9ujX4krU\/s72-w507-h285-c\/IMG_0379.png",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1003247402801998507"
+                        },
+                        "published": {
+                              "$t": "2024-03-05T20:57:00.000-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-05T20:57:05.814-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "Dj Alexander"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "MELODY 2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "DJ ALEXANDER - LOOP DOIDÃO - {EXCLUSIVOOOO 2024}"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/1003247402801998507\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-alexander-loop-doidao-exclusivoooo.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/1003247402801998507"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/1003247402801998507"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-alexander-loop-doidao-exclusivoooo.html",
+                                    "title": "DJ ALEXANDER - LOOP DOIDÃO - {EXCLUSIVOOOO 2024}"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Dj Alexander"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/08332787397455211472"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "32",
+                                          "height": "18",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiYPURbOdqiIxTFrEg8kv_Q9rnxB_kaoJVpn4Vb1SaOGzMQf4ISOgwx8FcdabSj_3slTNjItZ61GIe-P6IkB06kpBNpzzngWzZm_DOlKQ4vXYKgD5iSbFfj4Xyl28yE3jTM1jkoK_DF0qgh-Jnh3JzPzJBVDbZ0cqvNbkuvPckL7uC1CA\/s220\/RESPONSA%20-%20FOTO%202K23.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhWwCDIlXb5ageUNSA8e7kT7eSeycGjev1M7uJ02N7-Mv_VLk369KJGoWhNY6PULLwpRMGmXSPpK57loU-_Wj4I0ovkKHeGMHN7E-C6uQqzmAEGfXU51_BZeDcCuMDg_sO0X2vC8YkmPQr0ArJYHRABcR-tVnS6mykd3OQx-yYNZ_DTrFGXbh1f2hghvGc\/s72-c\/CAPA%20FODA.jpg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1293054058798883777"
+                        },
+                        "published": {
+                              "$t": "2024-03-05T17:25:00.000-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-05T17:25:05.088-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "Dj Josue"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "DJ JOSUE - QUEM SERA A SORTUDA (VIP 2024)"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/1293054058798883777\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-josue-quem-sera-sortuda-vip-2024.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/1293054058798883777"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/1293054058798883777"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-josue-quem-sera-sortuda-vip-2024.html",
+                                    "title": "DJ JOSUE - QUEM SERA A SORTUDA (VIP 2024)"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiR37sh_oof_rlq8Ah-_PgT78qevjZCdUY1gLb-IKSnnPSmXvooGCkSp9wKrzE5aDz8vBQCTXclzeQm0x8-ycPcG8toIKOZuCJUJpaJKMROZWCx97lQO8B4wM9VM069dkqGZL-ApDcpxyRsLdTN7SxC4hFunKpQG4WtgpHHR0j1pmuG8nm8FgWCl98s\/s72-w640-h360-c\/WhatsApp%20Image%202024-03-05%20at%2016.50.10.jpeg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-3470094294268061875"
+                        },
+                        "published": {
+                              "$t": "2024-03-04T18:03:00.005-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-04T18:03:49.802-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "Junior Santorini"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "JUNIOR SANTORINI - GUITARRA PSICOPATA"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/3470094294268061875\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/junior-santorini-guitarra-psicopata.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/3470094294268061875"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/3470094294268061875"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/junior-santorini-guitarra-psicopata.html",
+                                    "title": "JUNIOR SANTORINI - GUITARRA PSICOPATA"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjzRRgNILEeUmovw_lcGuLTmCenaeT9T4wUotF2HMDOvXu4rDpOm8YiixYHMRGZ4hSv9IuxbF4HrZw5XoKV74Le4kKy5U1CagVYmfPfX0thRYizUPHfMeZbG0V5R5rmX9E7nNxWb5Xz8o_XE0ht9_0bDISKcZZuiEqBqub0J8puS4FsWR-w6tF402nm\/s72-c\/WhatsApp%20Image%202024-03-04%20at%2017.33.46.jpeg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-5985703931775771013"
+                        },
+                        "published": {
+                              "$t": "2024-03-04T18:03:00.004-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-04T18:03:40.384-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "FABIANO TAILANDENSE - CUIDADO CORAÇÃO(melody 2024)"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/5985703931775771013\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/fabiano-tailandense-cuidado.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/5985703931775771013"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/5985703931775771013"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/fabiano-tailandense-cuidado.html",
+                                    "title": "FABIANO TAILANDENSE - CUIDADO CORAÇÃO(melody 2024)"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgjCxg9W6U4_C7jFSld2kBODJGl3tT7VmmdnsPCWM8GUBv0cw2zPNltSWb5WYg8edXnF-YsM1ivK2ieOzIZ9yEVO4ZqtFB8Ia6kVcHvhHBB_icFo_tKkw4MR7ZFe_id20lb4-ndojI6ye8IC0RnDge-s4MvcCjyRJCdTturHiu1JOtB-LgSl87A76Bh\/s72-c\/CUIDADO%20CORA%C3%87%C3%83O%20ST.jpg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1395386084521252175"
+                        },
+                        "published": {
+                              "$t": "2024-03-04T18:03:00.001-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-04T18:03:15.030-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "FABIANO TAILANDENSE - AVANT TOI (melody 2024)"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/1395386084521252175\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/fabiano-tailandense-avant-toi-melody.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/1395386084521252175"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/1395386084521252175"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/fabiano-tailandense-avant-toi-melody.html",
+                                    "title": "FABIANO TAILANDENSE - AVANT TOI (melody 2024)"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjv8OgTSjvYb7HzsMDxJEpIvz73nc56ZQymHrszIpxLGdCZ2Qh2XCBAKOoN3ZBLxH2-_iadxXvPef9xpmieTjD6dXJm5WxE_QJIPnnP003MlUGskfmseKEoanymAW7G1owm6VGjA1focrliRhNFalvTJ5MLqJE55wpBWEfjnvZN_MqeG4CPQOuqavws\/s72-c\/AVANT%20TOI%20ST.jpg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-2735781882649750662"
+                        },
+                        "published": {
+                              "$t": "2024-03-04T11:03:00.001-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-04T11:03:11.533-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "DJ ELIAS BATIDÃO - MELODY VOLTAS QUE O MUNDO DÁ-( Dj Déo Moreno ) 2024"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/2735781882649750662\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-elias-batidao-melody-voltas-que-o.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/2735781882649750662"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/2735781882649750662"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-elias-batidao-melody-voltas-que-o.html",
+                                    "title": "DJ ELIAS BATIDÃO - MELODY VOLTAS QUE O MUNDO DÁ-( Dj Déo Moreno ) 2024"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhDW8CjUx3eiqEBB5mF67y6y57UXqkwuDuSG836A7UpweIYzeQRuq-imTZKruh-v8OfMT8fAk9jEz-7b6RpxSVDUJDoBGbRKR97fq2G_ZcsdyXLMKcLiwbrURhTn3ivLvQbvNZUMXqH-GWkkqU2G2nAAXz2GCXHdRPl5wiRzxIBS3JexofKKhYOAsGI\/s72-c\/WhatsApp%20Image%202024-03-01%20at%2017.54.23.jpeg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-230844382937641710"
+                        },
+                        "published": {
+                              "$t": "2024-03-02T13:35:00.002-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-02T13:35:10.904-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "ARROCHA 2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "Macaxeira Produtor"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "ADRIANO COSTA - É ELA QUE EU AMO  "
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/230844382937641710\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/adriano-costa-e-ela-que-eu-amo.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/230844382937641710"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/230844382937641710"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/adriano-costa-e-ela-que-eu-amo.html",
+                                    "title": "ADRIANO COSTA - É ELA QUE EU AMO  "
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhueWtUkF8FTDbKFfDTr6YYdj3527ypfxk66C_O0FvCPoPhIM9YGUn2s8x8ldkZ7Q3_5zKkIVNKHFgt2RipPHgUI2dMRnl3dByZqBovvcBZPEbPJbW1kss5ZpvnoEm6jZ73xsWBbJfidJjHLdT5nZdegUnH_wRWsZbQCz-yoikiLYBCrl9TjroSF0Ff\/s72-w640-h360-c\/WhatsApp%20Image%202024-03-02%20at%2013.25.02.jpeg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-4124219804058836516"
+                        },
+                        "published": {
+                              "$t": "2024-03-02T13:34:00.006-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-02T13:34:51.123-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "Dj Ronaldo Maresia"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "DJ RONALDO MARESIA - LOOP DJ SASSA MORAL V1"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/4124219804058836516\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-ronaldo-maresia-loop-dj-sassa-moral.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/4124219804058836516"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/4124219804058836516"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/dj-ronaldo-maresia-loop-dj-sassa-moral.html",
+                                    "title": "DJ RONALDO MARESIA - LOOP DJ SASSA MORAL V1"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "media$thumbnail": {
+                              "xmlns$media": "http://search.yahoo.com/mrss/",
+                              "url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhZ_Tge9LGvFtCFi7wh6h_ChT9Z8cya34x4Ehw2vL34cggSO5ctx9uDWxRgH8cOBO-aCAHFjZxiGxZeiZk-Bpz3hK0hHcFh0_DE2bDEwLiKTLnT3AJG1OpRQEwqn4q9z119PC7usyFpBigm1eowvjhWm8NxJ4smhZUEps84W265neC7P_PGuW0UOK-C\/s72-c\/DJ%20RONALDO%20MARESIA%200.jpg",
+                              "height": "72",
+                              "width": "72"
+                        },
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  },
+                  {
+                        "id": {
+                              "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-4030471694646961375"
+                        },
+                        "published": {
+                              "$t": "2024-03-02T13:34:00.004-03:00"
+                        },
+                        "updated": {
+                              "$t": "2024-03-02T13:34:35.594-03:00"
+                        },
+                        "category": [
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "2024"
+                              },
+                              {
+                                    "scheme": "http://www.blogger.com/atom/ns#",
+                                    "term": "TECNOMELODY 2024"
+                              }
+                        ],
+                        "title": {
+                              "type": "text",
+                              "$t": "DAVI PRODUÇÕES E TARCISIO DO ACORDEON - LITERALMENTE"
+                        },
+                        "summary": {
+                              "type": "text",
+                              "$t": "\n\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOUÇA NO YOUTUBE\n\n"
+                        },
+                        "link": [
+                              {
+                                    "rel": "replies",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.melodybrazil.com\/feeds\/4030471694646961375\/comments\/default",
+                                    "title": "Postar comentários"
+                              },
+                              {
+                                    "rel": "replies",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/davi-producoes-e-tarcisio-do-acordeon.html#comment-form",
+                                    "title": "0 Comentários"
+                              },
+                              {
+                                    "rel": "edit",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/4030471694646961375"
+                              },
+                              {
+                                    "rel": "self",
+                                    "type": "application/atom+xml",
+                                    "href": "https:\/\/www.blogger.com\/feeds\/5364910262796621902\/posts\/default\/4030471694646961375"
+                              },
+                              {
+                                    "rel": "alternate",
+                                    "type": "text/html",
+                                    "href": "https:\/\/www.melodybrazil.com\/2024\/03\/davi-producoes-e-tarcisio-do-acordeon.html",
+                                    "title": "DAVI PRODUÇÕES E TARCISIO DO ACORDEON - LITERALMENTE"
+                              }
+                        ],
+                        "author": [
+                              {
+                                    "name": {
+                                          "$t": "Ryan Mix"
+                                    },
+                                    "uri": {
+                                          "$t": "http:\/\/www.blogger.com\/profile\/09925999258208367599"
+                                    },
+                                    "email": {
+                                          "$t": "noreply@blogger.com"
+                                    },
+                                    "gd$image": {
+                                          "rel": "http://schemas.google.com/g/2005#thumbnail",
+                                          "width": "31",
+                                          "height": "27",
+                                          "src": "\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00\/s220\/RYAN%20YOUTUBE.png"
+                                    }
+                              }
+                        ],
+                        "thr$total": {
+                              "$t": "0"
+                        }
+                  }
+            ]
+      }
+}
