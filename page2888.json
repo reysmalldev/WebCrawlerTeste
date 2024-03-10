@@ -12,7 +12,7 @@
             "$t": "tag:blogger.com,1999:blog-5364910262796621902"
         },
         "updated": {
-            "$t": "2024-03-08T11:12:51.711-03:00"
+            "$t": "2024-03-09T23:48:05.942-03:00"
         },
         "category": [
             {
@@ -139,10 +139,10 @@
                 "term": "ARROCHA 2023"
             },
             {
-                "term": "Cds Crocodilo"
+                "term": "2024"
             },
             {
-                "term": "2024"
+                "term": "Cds Crocodilo"
             },
             {
                 "term": "Dj Big Show"
@@ -157,7 +157,13 @@
                 "term": "Dj Lorran Produ\u00e7\u00f5es"
             },
             {
+                "term": "TECNOMELODY 2024"
+            },
+            {
                 "term": "Allanzinho Simplesmente Rom\u00e2ntico"
+            },
+            {
+                "term": "Dj Marcos Kau\u00ea"
             },
             {
                 "term": "Dj Railison"
@@ -166,13 +172,7 @@
                 "term": "Dj Lorran"
             },
             {
-                "term": "Dj Marcos Kau\u00ea"
-            },
-            {
                 "term": "SP Produ\u00e7\u00f5es"
-            },
-            {
-                "term": "TECNOMELODY 2024"
             },
             {
                 "term": "Banda Kenner"
@@ -211,10 +211,10 @@
                 "term": "Dj Paulinho"
             },
             {
-                "term": "Romeu"
+                "term": "Billy Brasil"
             },
             {
-                "term": "Billy Brasil"
+                "term": "Romeu"
             },
             {
                 "term": "VIVIANE BATID\u00c3O"
@@ -994,6 +994,9 @@
                 "term": "Lc Produ\u00e7\u00f5es"
             },
             {
+                "term": "MELODY 2024"
+            },
+            {
                 "term": "Will Love"
             },
             {
@@ -1013,9 +1016,6 @@
             },
             {
                 "term": "Flash Brega"
-            },
-            {
-                "term": "MELODY 2024"
             },
             {
                 "term": "Pasta Arrocha 2020"
@@ -1540,6 +1540,9 @@
                 "term": "Waldo Lima"
             },
             {
+                "term": "rock doido 2022"
+            },
+            {
                 "term": "Allison Produ\u00e7\u00f5es"
             },
             {
@@ -1646,9 +1649,6 @@
             },
             {
                 "term": "mediafire"
-            },
-            {
-                "term": "rock doido 2022"
             },
             {
                 "term": "tecnobatid\u00e3orom\u00e2ntico"
@@ -2173,6 +2173,9 @@
                 "term": "Wanted"
             },
             {
+                "term": "intro"
+            },
+            {
                 "term": "melhores"
             },
             {
@@ -2600,9 +2603,6 @@
             },
             {
                 "term": "cl"
-            },
-            {
-                "term": "intro"
             },
             {
                 "term": "tecnofunk mar\u00e7o 2019"
@@ -3583,6 +3583,9 @@
                 "term": "Ricky Brand\u00e3o"
             },
             {
+                "term": "Rock Doido"
+            },
+            {
                 "term": "Rondy Dias"
             },
             {
@@ -3780,7 +3783,7 @@
             {
                 "rel": "self",
                 "type": "application/atom+xml",
-                "href": "https://www.blogger.com/feeds/5364910262796621902/posts/summary?alt=json-in-script&start-index=29630&max-results=10"
+                "href": "https://www.blogger.com/feeds/5364910262796621902/posts/summary?alt=json-in-script&start-index=730&max-results=10"
             },
             {
                 "rel": "alternate",
@@ -3794,7 +3797,12 @@
             {
                 "rel": "previous",
                 "type": "application/atom+xml",
-                "href": "https://www.blogger.com/feeds/5364910262796621902/posts/summary?alt=json-in-script&start-index=29620&max-results=10"
+                "href": "https://www.blogger.com/feeds/5364910262796621902/posts/summary?alt=json-in-script&start-index=720&max-results=10"
+            },
+            {
+                "rel": "next",
+                "type": "application/atom+xml",
+                "href": "https://www.blogger.com/feeds/5364910262796621902/posts/summary?alt=json-in-script&start-index=740&max-results=10"
             }
         ],
         "author": [
@@ -3822,10 +3830,10 @@
             "$t": "Blogger"
         },
         "openSearch$totalResults": {
-            "$t": "29636"
+            "$t": "29653"
         },
         "openSearch$startIndex": {
-            "$t": "29630"
+            "$t": "730"
         },
         "openSearch$itemsPerPage": {
             "$t": "10"
@@ -3833,93 +3841,92 @@
         "entry": [
             {
                 "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1647264479470706909"
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-7073031863587013556"
                 },
                 "published": {
-                    "$t": "2012-05-03T15:56:00.001-03:00"
+                    "$t": "2023-09-22T11:03:00.005-03:00"
                 },
                 "updated": {
-                    "$t": "2016-11-03T13:10:24.128-03:00"
+                    "$t": "2023-09-22T11:03:47.003-03:00"
                 },
                 "category": [
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2012"
+                        "term": "2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Dj Edilan Mix"
+                        "term": "Allanzinho Simplesmente Rom\u00e2ntico"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "MARLON BRANCO"
+                        "term": "ARROCHA 2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
-                    },
-                    {
-                        "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "TecnoMelody"
+                        "term": "Cloudup"
                     }
                 ],
                 "title": {
                     "type": "text",
-                    "$t": "Marlon Branco e Dj Fabio - Dalhe O Coice do B\u00fafalo 2012"
+                    "$t": "(ARROCHA) ALLANZINHO - MANDA UM OI"
                 },
                 "summary": {
                     "type": "text",
-                    "$t": "\n\n\n\n\n\n\n\n \n  \n\ncliques:  \n\n\n"
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
                 },
                 "link": [
                     {
                         "rel": "replies",
                         "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/1647264479470706909/comments/default",
+                        "href": "https://www.melodybrazil.com/feeds/7073031863587013556/comments/default",
                         "title": "Postar coment\u00e1rios"
                     },
                     {
                         "rel": "replies",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/05/dalhe-o-coice-do-bufalomarlon-branco-dj.html#comment-form",
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-manda-um-oi.html#comment-form",
                         "title": "0 Coment\u00e1rios"
                     },
                     {
                         "rel": "edit",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1647264479470706909"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/7073031863587013556"
                     },
                     {
                         "rel": "self",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1647264479470706909"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/7073031863587013556"
                     },
                     {
                         "rel": "alternate",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/05/dalhe-o-coice-do-bufalomarlon-branco-dj.html",
-                        "title": "Marlon Branco e Dj Fabio - Dalhe O Coice do B\u00fafalo 2012"
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-manda-um-oi.html",
+                        "title": "(ARROCHA) ALLANZINHO - MANDA UM OI"
                     }
                 ],
                 "author": [
                     {
                         "name": {
-                            "$t": "Unknown"
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
                         },
                         "email": {
                             "$t": "noreply@blogger.com"
                         },
                         "gd$image": {
                             "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
                         }
                     }
                 ],
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhduTlJN_ZIcj9h2GD4FueWUrDWMQN9RAPKeGK4-wtS5WjwhxLOMlWAjQb-0593dSJ09Jja8zBOA9GZfhzHrAXiSQw-VCG6HyYCzTATVnUD67xHujJps450ZRImRNbbKuT3WBlYWMyWSeg/s72-c/Marlon.jpg",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0KzEJet1eAGdgi_d_pt0L9ZoqfC_L1tdqtXarFNagZP1hex8TUle4Qrg7HL-xxBXw10__TVSd_4qR0dCgoDXeSJzPPUv_InOSV6e695SgyXoCrVbgyqXHqqFb63pvGsHsUw77wfAY6IT6nIWmE-rthHdrP-gIELYDIwSW84-Z-u78kPwuZKQpQiO3/s72-w640-h640-c/41e214910c9648af8b8552b3e828be08_c5_1000x1000.jpg",
                     "height": "72",
                     "width": "72"
                 },
@@ -3929,89 +3936,92 @@
             },
             {
                 "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1037303658326707944"
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-8973747355228375734"
                 },
                 "published": {
-                    "$t": "2012-04-16T13:47:00.002-03:00"
+                    "$t": "2023-09-22T11:03:00.003-03:00"
                 },
                 "updated": {
-                    "$t": "2016-11-03T13:06:40.413-03:00"
+                    "$t": "2023-09-22T11:03:22.973-03:00"
                 },
                 "category": [
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2012"
+                        "term": "2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Banda Tribo do Batid\u00e3o"
+                        "term": "Allanzinho Simplesmente Rom\u00e2ntico"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Dj Edilan Mix"
+                        "term": "ARROCHA 2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
+                        "term": "Cloudup"
                     }
                 ],
                 "title": {
                     "type": "text",
-                    "$t": "Banda Tribo do Batid\u00e3o - Diz Que Vai Voltar Pra Mim"
+                    "$t": "(ARROCHA) ALLANZINHO - MALA DOS PORTA MALAS"
                 },
                 "summary": {
                     "type": "text",
-                    "$t": "\n\n\n\n\n\n\n\n \n  \n\ncliques:  \n\n\n"
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
                 },
                 "link": [
                     {
                         "rel": "replies",
                         "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/1037303658326707944/comments/default",
+                        "href": "https://www.melodybrazil.com/feeds/8973747355228375734/comments/default",
                         "title": "Postar coment\u00e1rios"
                     },
                     {
                         "rel": "replies",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/04/banda-tribo-do-batidao-diz-que-vai.html#comment-form",
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-mala-dos-porta-malas.html#comment-form",
                         "title": "0 Coment\u00e1rios"
                     },
                     {
                         "rel": "edit",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1037303658326707944"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/8973747355228375734"
                     },
                     {
                         "rel": "self",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1037303658326707944"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/8973747355228375734"
                     },
                     {
                         "rel": "alternate",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/04/banda-tribo-do-batidao-diz-que-vai.html",
-                        "title": "Banda Tribo do Batid\u00e3o - Diz Que Vai Voltar Pra Mim"
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-mala-dos-porta-malas.html",
+                        "title": "(ARROCHA) ALLANZINHO - MALA DOS PORTA MALAS"
                     }
                 ],
                 "author": [
                     {
                         "name": {
-                            "$t": "Unknown"
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
                         },
                         "email": {
                             "$t": "noreply@blogger.com"
                         },
                         "gd$image": {
                             "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
                         }
                     }
                 ],
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H_aQLwosgUDabFRN4phk8aPtJz-1YwU2bDLhmGj2Jzkib11t48Pugpt4nDttBc38cpGsqq3N0DSG6GKAWPMKv42Y4y-712HiUQ4xRzhW5-Fl5RFNWEqVhSxw7hyphenhyphenwU3P067KosyKOugI/s72-c/Tribo.jpg",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0KzEJet1eAGdgi_d_pt0L9ZoqfC_L1tdqtXarFNagZP1hex8TUle4Qrg7HL-xxBXw10__TVSd_4qR0dCgoDXeSJzPPUv_InOSV6e695SgyXoCrVbgyqXHqqFb63pvGsHsUw77wfAY6IT6nIWmE-rthHdrP-gIELYDIwSW84-Z-u78kPwuZKQpQiO3/s72-w640-h640-c/41e214910c9648af8b8552b3e828be08_c5_1000x1000.jpg",
                     "height": "72",
                     "width": "72"
                 },
@@ -4021,89 +4031,92 @@
             },
             {
                 "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-2828491670662435721"
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1244908461535274125"
                 },
                 "published": {
-                    "$t": "2012-03-06T02:49:00.000-03:00"
+                    "$t": "2023-09-22T11:03:00.000-03:00"
                 },
                 "updated": {
-                    "$t": "2017-03-03T02:51:57.260-03:00"
+                    "$t": "2023-09-22T11:03:01.606-03:00"
                 },
                 "category": [
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2012"
+                        "term": "2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Banda M Synck"
+                        "term": "Allanzinho Simplesmente Rom\u00e2ntico"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Melody Marcante"
+                        "term": "ARROCHA 2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
+                        "term": "Cloudup"
                     }
                 ],
                 "title": {
                     "type": "text",
-                    "$t": "(Marcante) Banda M Synck - Conto De Fadas"
+                    "$t": "(ARROCHA) ALLANZINHO - DE ATUAL PRA EX"
                 },
                 "summary": {
                     "type": "text",
-                    "$t": "\n\n\n\n\n \nCliques:\n\n\n\n"
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
                 },
                 "link": [
                     {
                         "rel": "replies",
                         "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/2828491670662435721/comments/default",
+                        "href": "https://www.melodybrazil.com/feeds/1244908461535274125/comments/default",
                         "title": "Postar coment\u00e1rios"
                     },
                     {
                         "rel": "replies",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/03/marcante-banda-m-synck-conto-de-fadas.html#comment-form",
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-de-atual-pra-ex.html#comment-form",
                         "title": "0 Coment\u00e1rios"
                     },
                     {
                         "rel": "edit",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/2828491670662435721"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1244908461535274125"
                     },
                     {
                         "rel": "self",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/2828491670662435721"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1244908461535274125"
                     },
                     {
                         "rel": "alternate",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2012/03/marcante-banda-m-synck-conto-de-fadas.html",
-                        "title": "(Marcante) Banda M Synck - Conto De Fadas"
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-de-atual-pra-ex.html",
+                        "title": "(ARROCHA) ALLANZINHO - DE ATUAL PRA EX"
                     }
                 ],
                 "author": [
                     {
                         "name": {
-                            "$t": "Unknown"
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
                         },
                         "email": {
                             "$t": "noreply@blogger.com"
                         },
                         "gd$image": {
                             "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
                         }
                     }
                 ],
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSWCHArDcE6ySYTa7BtP1Ept7Ei0Pn19bWUSL1nZFIS4rqobwhtnU717loFYDtJrBEuRO199Wan7ie6_tfTwqYdKhC9sEWpy5DIRhSBOUFyARR5gyrK8fm-etCSWKRNSt4flQseta3HyJr/s72-c/banda+m-synck.jpg",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0KzEJet1eAGdgi_d_pt0L9ZoqfC_L1tdqtXarFNagZP1hex8TUle4Qrg7HL-xxBXw10__TVSd_4qR0dCgoDXeSJzPPUv_InOSV6e695SgyXoCrVbgyqXHqqFb63pvGsHsUw77wfAY6IT6nIWmE-rthHdrP-gIELYDIwSW84-Z-u78kPwuZKQpQiO3/s72-w640-h640-c/41e214910c9648af8b8552b3e828be08_c5_1000x1000.jpg",
                     "height": "72",
                     "width": "72"
                 },
@@ -4113,89 +4126,92 @@
             },
             {
                 "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1413790092709757879"
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-878454758915252076"
                 },
                 "published": {
-                    "$t": "2012-03-03T02:33:00.000-03:00"
+                    "$t": "2023-09-22T11:02:00.004-03:00"
                 },
                 "updated": {
-                    "$t": "2017-03-03T02:33:53.600-03:00"
+                    "$t": "2023-09-22T11:02:44.689-03:00"
                 },
                 "category": [
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2012"
+                        "term": "2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Banda Os Karinhas"
+                        "term": "Allanzinho Simplesmente Rom\u00e2ntico"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Melody Marcante"
+                        "term": "ARROCHA 2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
+                        "term": "Cloudup"
                     }
                 ],
                 "title": {
                     "type": "text",
-                    "$t": "(Marcante) Banda Os Karinhas E Netinho Pancad\u00e3o - Voc\u00ea Me Deixou"
+                    "$t": "(ARROCHA) ALLANZINHO - ANOTA AI"
                 },
                 "summary": {
                     "type": "text",
-                    "$t": "\n\n\n\n\n \nCliques:\n\n\n\n"
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
                 },
                 "link": [
                     {
                         "rel": "replies",
                         "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/1413790092709757879/comments/default",
+                        "href": "https://www.melodybrazil.com/feeds/878454758915252076/comments/default",
                         "title": "Postar coment\u00e1rios"
                     },
                     {
                         "rel": "replies",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2017/03/marcante-banda-os-karinhas-e-netinho.html#comment-form",
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-anota-ai.html#comment-form",
                         "title": "0 Coment\u00e1rios"
                     },
                     {
                         "rel": "edit",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1413790092709757879"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/878454758915252076"
                     },
                     {
                         "rel": "self",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1413790092709757879"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/878454758915252076"
                     },
                     {
                         "rel": "alternate",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2017/03/marcante-banda-os-karinhas-e-netinho.html",
-                        "title": "(Marcante) Banda Os Karinhas E Netinho Pancad\u00e3o - Voc\u00ea Me Deixou"
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-anota-ai.html",
+                        "title": "(ARROCHA) ALLANZINHO - ANOTA AI"
                     }
                 ],
                 "author": [
                     {
                         "name": {
-                            "$t": "Unknown"
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
                         },
                         "email": {
                             "$t": "noreply@blogger.com"
                         },
                         "gd$image": {
                             "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
                         }
                     }
                 ],
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtZAJBK5NDhhnjqLJB-qdnJQgTyThN_b_KAvDpocPP-fjO5K7OT1JI_a1BPZuDBowA7CIjq7piZD2MKUVR3q76tjdiE4BgYeRM4xNW1EZUiIJTW1AaReQf5SNDYedFf7e9J0H_trWmtrE/s72-c/MB.jpg",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0KzEJet1eAGdgi_d_pt0L9ZoqfC_L1tdqtXarFNagZP1hex8TUle4Qrg7HL-xxBXw10__TVSd_4qR0dCgoDXeSJzPPUv_InOSV6e695SgyXoCrVbgyqXHqqFb63pvGsHsUw77wfAY6IT6nIWmE-rthHdrP-gIELYDIwSW84-Z-u78kPwuZKQpQiO3/s72-w640-h640-c/41e214910c9648af8b8552b3e828be08_c5_1000x1000.jpg",
                     "height": "72",
                     "width": "72"
                 },
@@ -4205,89 +4221,92 @@
             },
             {
                 "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-6924020619845433107"
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-5895885421222432139"
                 },
                 "published": {
-                    "$t": "2012-03-03T02:27:00.000-03:00"
+                    "$t": "2023-09-22T11:02:00.002-03:00"
                 },
                 "updated": {
-                    "$t": "2017-03-03T02:27:37.955-03:00"
+                    "$t": "2023-09-22T11:02:24.696-03:00"
                 },
                 "category": [
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2012"
+                        "term": "2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Banda Os Karinhas"
+                        "term": "Allanzinho Simplesmente Rom\u00e2ntico"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Melody Marcante"
+                        "term": "ARROCHA 2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
+                        "term": "Cloudup"
                     }
                 ],
                 "title": {
                     "type": "text",
-                    "$t": "(Marcante) Banda Os Karinhas - 60 Segundos"
+                    "$t": "(ARROCHA) ALLANZINHO - OK"
                 },
                 "summary": {
                     "type": "text",
-                    "$t": "\n\n\n\n\n \nCliques:\n\n\n\n"
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
                 },
                 "link": [
                     {
                         "rel": "replies",
                         "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/6924020619845433107/comments/default",
+                        "href": "https://www.melodybrazil.com/feeds/5895885421222432139/comments/default",
                         "title": "Postar coment\u00e1rios"
                     },
                     {
                         "rel": "replies",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2017/03/marcante-banda-os-karinhas-60-segundos.html#comment-form",
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-ok.html#comment-form",
                         "title": "0 Coment\u00e1rios"
                     },
                     {
                         "rel": "edit",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/6924020619845433107"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/5895885421222432139"
                     },
                     {
                         "rel": "self",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/6924020619845433107"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/5895885421222432139"
                     },
                     {
                         "rel": "alternate",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2017/03/marcante-banda-os-karinhas-60-segundos.html",
-                        "title": "(Marcante) Banda Os Karinhas - 60 Segundos"
+                        "href": "https://www.melodybrazil.com/2023/09/arrocha-allanzinho-ok.html",
+                        "title": "(ARROCHA) ALLANZINHO - OK"
                     }
                 ],
                 "author": [
                     {
                         "name": {
-                            "$t": "Unknown"
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
                         },
                         "email": {
                             "$t": "noreply@blogger.com"
                         },
                         "gd$image": {
                             "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
                         }
                     }
                 ],
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtZAJBK5NDhhnjqLJB-qdnJQgTyThN_b_KAvDpocPP-fjO5K7OT1JI_a1BPZuDBowA7CIjq7piZD2MKUVR3q76tjdiE4BgYeRM4xNW1EZUiIJTW1AaReQf5SNDYedFf7e9J0H_trWmtrE/s72-c/MB.jpg",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0KzEJet1eAGdgi_d_pt0L9ZoqfC_L1tdqtXarFNagZP1hex8TUle4Qrg7HL-xxBXw10__TVSd_4qR0dCgoDXeSJzPPUv_InOSV6e695SgyXoCrVbgyqXHqqFb63pvGsHsUw77wfAY6IT6nIWmE-rthHdrP-gIELYDIwSW84-Z-u78kPwuZKQpQiO3/s72-w640-h640-c/41e214910c9648af8b8552b3e828be08_c5_1000x1000.jpg",
                     "height": "72",
                     "width": "72"
                 },
@@ -4297,89 +4316,88 @@
             },
             {
                 "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-730280803353915589"
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-4711571661921763869"
                 },
                 "published": {
-                    "$t": "2009-06-04T02:08:00.000-03:00"
+                    "$t": "2023-09-22T10:46:00.001-03:00"
                 },
                 "updated": {
-                    "$t": "2017-03-03T02:08:42.708-03:00"
+                    "$t": "2023-09-22T10:46:55.340-03:00"
                 },
                 "category": [
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2009"
+                        "term": "2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Banda Os Brothers"
+                        "term": "Cloudup"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Melody Marcante"
-                    },
-                    {
-                        "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
+                        "term": "TECNOMELODY 2023"
                     }
                 ],
                 "title": {
                     "type": "text",
-                    "$t": "(Marcante) Banda Os Brothers - O Nosso Amor"
+                    "$t": "DJ JUNIOR POP - N\u00c3O ADIANTA VIM ME PROCURAR (TOP EXCLUSIVA)"
                 },
                 "summary": {
                     "type": "text",
-                    "$t": "\n\n\n\n\n \nCliques:\n\n\n\n"
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
                 },
                 "link": [
                     {
                         "rel": "replies",
                         "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/730280803353915589/comments/default",
+                        "href": "https://www.melodybrazil.com/feeds/4711571661921763869/comments/default",
                         "title": "Postar coment\u00e1rios"
                     },
                     {
                         "rel": "replies",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2009/06/marcante-banda-os-brothers-o-nosso-amor.html#comment-form",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-junior-pop-nao-adianta-vim-me.html#comment-form",
                         "title": "0 Coment\u00e1rios"
                     },
                     {
                         "rel": "edit",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/730280803353915589"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/4711571661921763869"
                     },
                     {
                         "rel": "self",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/730280803353915589"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/4711571661921763869"
                     },
                     {
                         "rel": "alternate",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2009/06/marcante-banda-os-brothers-o-nosso-amor.html",
-                        "title": "(Marcante) Banda Os Brothers - O Nosso Amor"
+                        "href": "https://www.melodybrazil.com/2023/09/dj-junior-pop-nao-adianta-vim-me.html",
+                        "title": "DJ JUNIOR POP - N\u00c3O ADIANTA VIM ME PROCURAR (TOP EXCLUSIVA)"
                     }
                 ],
                 "author": [
                     {
                         "name": {
-                            "$t": "Unknown"
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
                         },
                         "email": {
                             "$t": "noreply@blogger.com"
                         },
                         "gd$image": {
                             "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
                         }
                     }
                 ],
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTrBrSVuIunFx-IcNdlESHD4ZjoIvc8UBqn2dnkWDHOiweynmBpVrBhBIXEdssxdjsozDCyZ8AGe8tVCv_Fdz6T_lMiHUO0s8Mv8FzHYgSR0f3WnJUQmzZfFhO0F8AVOU6u4kG_hu9rS4/s72-c/Osbrothers.jpg",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhdY73NFmHXHb1vvnbdk5XxaG06ngd1_WaH3HTYVAPiS4Y4IUt9ZT9QkyGT78OZseaMl53BBhJm4H2ODFdfuVJwHCfEQsXUR1BvzlpSVpuIFuSLmtjEukwRGzUCa9nSfPv91njDCqu25x4HfvfC6BNZGztodLxqcEHU5ItBDjqW0lWrq7ja1vSbg7H/s72-w640-h360-c/WhatsApp%20Image%202023-09-21%20at%2018.48.51.jpeg",
                     "height": "72",
                     "width": "72"
                 },
@@ -4389,89 +4407,365 @@
             },
             {
                 "id": {
-                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-4223802624077749907"
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-2093149319315211255"
                 },
                 "published": {
-                    "$t": "2009-03-03T02:01:00.000-03:00"
+                    "$t": "2023-09-21T19:12:00.000-03:00"
                 },
                 "updated": {
-                    "$t": "2017-03-03T02:43:00.575-03:00"
+                    "$t": "2023-09-21T19:12:44.955-03:00"
                 },
                 "category": [
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "2009"
+                        "term": "2023"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Banda Ar-15"
+                        "term": "Cloudup"
                     },
                     {
                         "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Melody Marcante"
-                    },
-                    {
-                        "scheme": "http://www.blogger.com/atom/ns#",
-                        "term": "Meo Cloud"
+                        "term": "TECNOMELODY 2023"
                     }
                 ],
                 "title": {
                     "type": "text",
-                    "$t": "(Marcante) Banda Ar-15 - Janela Do Cora\u00e7\u00e3o"
+                    "$t": "DJ MARCOS PRODU\u00c7\u00d5ES E MC PH - TUDO QUE EU FA\u00c7O INCOMODA MUITA GENTE 2023 (EXCLUSIVA)"
                 },
                 "summary": {
                     "type": "text",
-                    "$t": "\n\n\n\n\n \nCliques:\n\n\n\n"
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
                 },
                 "link": [
                     {
                         "rel": "replies",
                         "type": "application/atom+xml",
-                        "href": "https://www.melodybrazil.com/feeds/4223802624077749907/comments/default",
+                        "href": "https://www.melodybrazil.com/feeds/2093149319315211255/comments/default",
                         "title": "Postar coment\u00e1rios"
                     },
                     {
                         "rel": "replies",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2009/03/marcante-banda-ar-15-janela-do-coracao.html#comment-form",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-marcos-producoes-e-mc-ph-tudo-que-eu.html#comment-form",
                         "title": "0 Coment\u00e1rios"
                     },
                     {
                         "rel": "edit",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/4223802624077749907"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/2093149319315211255"
                     },
                     {
                         "rel": "self",
                         "type": "application/atom+xml",
-                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/4223802624077749907"
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/2093149319315211255"
                     },
                     {
                         "rel": "alternate",
                         "type": "text/html",
-                        "href": "https://www.melodybrazil.com/2009/03/marcante-banda-ar-15-janela-do-coracao.html",
-                        "title": "(Marcante) Banda Ar-15 - Janela Do Cora\u00e7\u00e3o"
+                        "href": "https://www.melodybrazil.com/2023/09/dj-marcos-producoes-e-mc-ph-tudo-que-eu.html",
+                        "title": "DJ MARCOS PRODU\u00c7\u00d5ES E MC PH - TUDO QUE EU FA\u00c7O INCOMODA MUITA GENTE 2023 (EXCLUSIVA)"
                     }
                 ],
                 "author": [
                     {
                         "name": {
-                            "$t": "Unknown"
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
                         },
                         "email": {
                             "$t": "noreply@blogger.com"
                         },
                         "gd$image": {
                             "rel": "http://schemas.google.com/g/2005#thumbnail",
-                            "width": "16",
-                            "height": "16",
-                            "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
                         }
                     }
                 ],
                 "media$thumbnail": {
                     "xmlns$media": "http://search.yahoo.com/mrss/",
-                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw9JwgyyMKuM_reZ1wChwcK0atsTJYDzHybQ2EhZ5lViq5z2owNnpA92fi5tObsu87yheFUTdcd0aIcSTu2KHR13JeyxysMVshOZNd34eAY1N1MhWCicP63ta9XA3nSyIH8YuWUsEN8rk/s72-c/Ar-15.jpg",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbJWz8PHrG1uJ9V1QeYJujnbpOvVXB3SnGxvDvjwpnEoN3TAc8QCe7UgxFBWJPIBPqkW29RLezJ008B76FMhKuvdbhc6_4W1W5KwzgHbK3_EKqkT4vF_n1veouw1Y9KBq3Qv1y6hk4uVE92jyeX2bCsdlCCzlAjsWMb65t57JPXICvubDDPY5VyQ/s72-w640-h640-c/WhatsApp%20Image%202023-06-10%20at%2014.20.09.jpeg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "0"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-2390954712533976246"
+                },
+                "published": {
+                    "$t": "2023-09-21T19:04:00.002-03:00"
+                },
+                "updated": {
+                    "$t": "2023-09-21T19:10:11.566-03:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "2023"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Cloudup"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "TECNOMELODY 2023"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "DJ JUNIOR POP - LOCALIZA AI PARTIU CABAREZIN X SIM SALABIM (BAGULHO DOIDO)"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://www.melodybrazil.com/feeds/2390954712533976246/comments/default",
+                        "title": "Postar coment\u00e1rios"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-junior-pop-localiza-ai-partiu.html#comment-form",
+                        "title": "0 Coment\u00e1rios"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/2390954712533976246"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/2390954712533976246"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-junior-pop-localiza-ai-partiu.html",
+                        "title": "DJ JUNIOR POP - LOCALIZA AI PARTIU CABAREZIN X SIM SALABIM (BAGULHO DOIDO)"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4K7pHpHmRzX5lNs58j-Z2LZrMGyk1eBg0-0jjZPImw5yHVg9Mt1l08ESr9XSqrwHK6jJAJPh1GA_bH1PH8Ozxb7bdxunw1c0K2GrVIWYu4D7o32Lvw9de2Rh7xz56BLW6FrxM2kxSbRo1cDcSNihGPHe8g0hYrC6IJUXhsHPUXwCFQp2aZZ27XMvy/s72-w640-h360-c/WhatsApp%20Image%202023-09-21%20at%2018.49.43.jpeg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "0"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-1887963380772262064"
+                },
+                "published": {
+                    "$t": "2023-09-21T16:16:00.000-03:00"
+                },
+                "updated": {
+                    "$t": "2023-09-21T16:16:12.570-03:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "2023"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Cloudup"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Dj Stifler"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "TECNOMELODY 2023"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "DJ STIFLER - LAPADA DELA (REMIX TOP 2024) EXCLUSIVA"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://www.melodybrazil.com/feeds/1887963380772262064/comments/default",
+                        "title": "Postar coment\u00e1rios"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-stifler-lapada-dela-remix-top-2024.html#comment-form",
+                        "title": "0 Coment\u00e1rios"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1887963380772262064"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/1887963380772262064"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-stifler-lapada-dela-remix-top-2024.html",
+                        "title": "DJ STIFLER - LAPADA DELA (REMIX TOP 2024) EXCLUSIVA"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-dlEVEbR6GCJsf2cmkuOeUHjGOfdDZBRA7oWBMUJNqJJIp_2w4MrFheGqb8R_eK10cFvfXCbv1NaNC-adzjywZOpYeIYxym-hdnbhb8BJX6lAS0iZOkJJuHxhFkxenBG6WNlDKduXOQvqU9tBr0PGviSKDfbuydmT1JR2t9S-ETBZVYgEpH6SdAOb/s72-w640-h384-c/DJ%20STIFLER.jpeg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": {
+                    "$t": "0"
+                }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-5364910262796621902.post-5609122421707255085"
+                },
+                "published": {
+                    "$t": "2023-09-21T12:03:00.000-03:00"
+                },
+                "updated": {
+                    "$t": "2023-09-21T12:03:04.001-03:00"
+                },
+                "category": [
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "2023"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "Cloudup"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "TECNOMELODY 2023"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "DJ OTOMIX - Moonlight Shadow (NA BATIDA 150 BPM)"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n\n \n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nOU\u00c7A NO YOUTUBE\n\n"
+                },
+                "link": [
+                    {
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://www.melodybrazil.com/feeds/5609122421707255085/comments/default",
+                        "title": "Postar coment\u00e1rios"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-otomix-moonlight-shadow-na-batida.html#comment-form",
+                        "title": "0 Coment\u00e1rios"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/5609122421707255085"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/5364910262796621902/posts/default/5609122421707255085"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://www.melodybrazil.com/2023/09/dj-otomix-moonlight-shadow-na-batida.html",
+                        "title": "DJ OTOMIX - Moonlight Shadow (NA BATIDA 150 BPM)"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Ryan Mix"
+                        },
+                        "uri": {
+                            "$t": "http://www.blogger.com/profile/09925999258208367599"
+                        },
+                        "email": {
+                            "$t": "noreply@blogger.com"
+                        },
+                        "gd$image": {
+                            "rel": "http://schemas.google.com/g/2005#thumbnail",
+                            "width": "31",
+                            "height": "27",
+                            "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm7i46dyx28S3Oij5vcp1nXtU7fSotGMwTuyK2dlj-YPAWrjhBFoCUBPePAB5MA00-fWDocroQ1Oqu7c0N6yhBAQDPc4CT-OEk-B8fP0vtXybc-yxxWXTbuDkUcTnK5MDBWE8-J8G9akwgO991s9XnpXbtyEqZip92qTdKnG9Gy00/s220/RYAN%20YOUTUBE.png"
+                        }
+                    }
+                ],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkwtu3yuKOaaMMYtl6rNIDuLlUhUZemgTV6il8Zc8Q5KAA44wBZY7EOU6fZyZ2BOr58oa77DgTLIgL05jCCnDH0DRg8u0M2J-1KbZOFZRjf7YD_DuwwhJquLoZVa7r4c0a1NPum-KL4Y_8l-WVFRvRmWOzBrjWrqXGCnlRput_wwPUniJK9eI1H5fD/s72-w640-h360-c/WhatsApp%20Image%202023-09-21%20at%2005.59.48.jpeg",
                     "height": "72",
                     "width": "72"
                 },
