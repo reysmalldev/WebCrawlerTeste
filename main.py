@@ -5,7 +5,6 @@ from scrapy.utils.log import configure_logging
 from scrapy.utils.project import get_project_settings
 from scrappers.enconde_uri import GetDatesOfUrl
 from scrappers.get_pages import GetAllMusicsPage
-from scrappers.get_download_url import GetDownloadUrls
 
 settings = get_project_settings()
 configure_logging(settings)
@@ -17,8 +16,6 @@ def crawl():
     yield runner.crawl(GetDatesOfUrl)
     time.sleep(1)
     yield runner.crawl(GetAllMusicsPage)
-    time.sleep(1)
-    yield runner.crawl(GetDownloadUrls)
     reactor.stop()
 
 crawl()

@@ -17,7 +17,7 @@ class GetDatesOfUrl(scrapy.Spider):
     custom_settings = {
         'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
         'AUTOTHROTTLE': True,
-        'DOWNLOAD_DELAY': 2,
+        'DOWNLOAD_DELAY': 0.5,
         'RANDOMIZE_DOWNLOAD_DELAY': False
     }
 
